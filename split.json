@@ -1,0 +1,3572 @@
+[
+  {
+    "train": [
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_035.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_079.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_065.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_001.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_012.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_017.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_066.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_020.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_006.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_005.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_026.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_100.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_039.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_027.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_044.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_042.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_033.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_075.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_039.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_084.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_004.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_001.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_023.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_067.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_033.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_031.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_015.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_059.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_080.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_055.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_094.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_028.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_018.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_034.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_019.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_067.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_056.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_064.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_077.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_081.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_073.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_028.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_024.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_036.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_052.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_048.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_005.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_016.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_077.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_042.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_076.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_045.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_096.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_002.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_013.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_061.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_047.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_032.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_069.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_022.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_017.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_078.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_010.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_083.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_046.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_090.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_035.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_086.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_041.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_046.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_048.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_060.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_047.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_007.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_082.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_059.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_071.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_049.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_013.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_011.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_021.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_010.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_011.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_038.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_099.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_030.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_085.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_006.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_065.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_091.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_038.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_074.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_093.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_076.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_021.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_097.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_032.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_018.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_012.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_068.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_089.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_092.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_025.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_098.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_063.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_070.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_087.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_062.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_040.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_050.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_088.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_066.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_041.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_002.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_072.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_051.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_015.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_057.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_008.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_069.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_051.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_044.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_075.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_055.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_030.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_060.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_056.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_024.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_008.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_009.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_009.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_052.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_023.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_040.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_027.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_036.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_058.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_063.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_071.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_007.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_029.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_064.wav",
+        "label": "klakson_mobil"
+      }
+    ],
+    "val": [
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_049.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_037.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_016.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_025.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_014.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_057.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_029.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_022.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_004.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_020.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_003.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_043.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_026.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_003.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_014.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_034.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_054.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_058.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_068.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_054.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_037.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_043.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_045.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_031.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_053.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_061.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_074.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_073.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_050.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_062.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_072.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_053.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_070.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_019.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_095.wav",
+        "label": "ambulance"
+      }
+    ]
+  },
+  {
+    "train": [
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_049.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_037.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_016.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_025.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_014.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_057.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_029.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_022.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_004.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_020.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_003.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_043.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_026.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_003.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_014.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_034.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_054.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_058.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_068.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_054.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_037.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_043.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_045.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_031.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_053.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_061.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_074.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_073.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_050.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_062.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_072.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_053.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_070.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_019.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_095.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_067.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_056.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_064.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_077.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_081.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_073.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_028.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_024.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_036.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_052.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_048.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_005.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_016.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_077.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_042.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_076.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_045.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_096.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_002.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_013.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_061.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_047.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_032.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_069.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_022.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_017.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_078.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_010.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_083.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_046.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_090.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_035.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_086.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_041.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_046.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_048.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_060.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_047.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_007.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_082.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_059.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_071.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_049.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_013.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_011.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_021.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_010.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_011.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_038.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_099.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_030.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_085.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_006.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_065.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_091.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_038.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_074.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_093.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_076.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_021.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_097.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_032.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_018.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_012.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_068.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_089.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_092.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_025.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_098.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_063.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_070.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_087.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_062.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_040.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_050.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_088.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_066.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_041.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_002.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_072.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_051.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_015.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_057.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_008.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_069.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_051.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_044.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_075.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_055.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_030.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_060.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_056.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_024.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_008.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_009.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_009.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_052.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_023.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_040.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_027.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_036.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_058.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_063.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_071.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_007.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_029.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_064.wav",
+        "label": "klakson_mobil"
+      }
+    ],
+    "val": [
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_035.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_079.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_065.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_001.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_012.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_017.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_066.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_020.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_006.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_005.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_026.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_100.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_039.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_027.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_044.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_042.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_033.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_075.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_039.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_084.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_004.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_001.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_023.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_067.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_033.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_031.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_015.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_059.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_080.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_055.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_094.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_028.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_018.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_034.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_019.wav",
+        "label": "ambulance"
+      }
+    ]
+  },
+  {
+    "train": [
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_049.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_037.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_016.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_025.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_014.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_057.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_029.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_022.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_004.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_020.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_003.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_043.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_026.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_003.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_014.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_034.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_054.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_058.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_068.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_054.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_037.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_043.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_045.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_031.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_053.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_061.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_074.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_073.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_050.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_062.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_072.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_053.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_070.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_019.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_095.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_035.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_079.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_065.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_001.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_012.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_017.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_066.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_020.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_006.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_005.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_026.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_100.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_039.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_027.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_044.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_042.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_033.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_075.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_039.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_084.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_004.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_001.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_023.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_067.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_033.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_031.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_015.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_059.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_080.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_055.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_094.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_028.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_018.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_034.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_019.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_048.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_060.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_047.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_007.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_082.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_059.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_071.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_049.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_013.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_011.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_021.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_010.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_011.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_038.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_099.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_030.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_085.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_006.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_065.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_091.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_038.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_074.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_093.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_076.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_021.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_097.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_032.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_018.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_012.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_068.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_089.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_092.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_025.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_098.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_063.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_070.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_087.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_062.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_040.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_050.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_088.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_066.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_041.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_002.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_072.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_051.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_015.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_057.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_008.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_069.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_051.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_044.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_075.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_055.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_030.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_060.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_056.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_024.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_008.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_009.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_009.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_052.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_023.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_040.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_027.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_036.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_058.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_063.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_071.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_007.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_029.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_064.wav",
+        "label": "klakson_mobil"
+      }
+    ],
+    "val": [
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_067.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_056.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_064.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_077.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_081.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_073.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_028.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_024.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_036.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_052.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_048.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_005.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_016.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_077.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_042.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_076.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_045.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_096.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_002.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_013.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_061.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_047.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_032.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_069.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_022.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_017.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_078.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_010.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_083.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_046.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_090.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_035.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_086.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_041.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_046.wav",
+        "label": "ambulance"
+      }
+    ]
+  },
+  {
+    "train": [
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_049.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_037.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_016.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_025.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_014.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_057.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_029.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_022.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_004.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_020.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_003.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_043.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_026.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_003.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_014.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_034.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_054.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_058.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_068.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_054.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_037.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_043.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_045.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_031.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_053.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_061.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_074.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_073.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_050.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_062.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_072.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_053.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_070.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_019.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_095.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_035.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_079.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_065.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_001.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_012.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_017.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_066.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_020.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_006.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_005.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_026.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_100.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_039.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_027.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_044.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_042.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_033.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_075.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_039.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_084.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_004.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_001.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_023.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_067.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_033.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_031.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_015.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_059.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_080.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_055.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_094.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_028.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_018.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_034.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_019.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_067.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_056.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_064.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_077.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_081.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_073.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_028.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_024.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_036.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_052.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_048.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_005.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_016.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_077.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_042.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_076.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_045.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_096.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_002.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_013.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_061.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_047.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_032.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_069.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_022.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_017.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_078.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_010.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_083.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_046.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_090.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_035.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_086.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_041.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_046.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_070.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_087.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_062.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_040.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_050.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_088.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_066.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_041.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_002.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_072.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_051.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_015.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_057.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_008.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_069.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_051.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_044.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_075.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_055.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_030.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_060.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_056.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_024.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_008.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_009.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_009.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_052.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_023.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_040.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_027.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_036.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_058.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_063.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_071.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_007.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_029.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_064.wav",
+        "label": "klakson_mobil"
+      }
+    ],
+    "val": [
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_048.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_060.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_047.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_007.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_082.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_059.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_071.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_049.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_013.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_011.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_021.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_010.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_011.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_038.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_099.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_030.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_085.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_006.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_065.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_091.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_038.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_074.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_093.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_076.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_021.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_097.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_032.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_018.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_012.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_068.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_089.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_092.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_025.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_098.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_063.wav",
+        "label": "klakson_mobil"
+      }
+    ]
+  },
+  {
+    "train": [
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_049.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_037.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_016.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_025.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_014.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_057.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_029.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_022.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_004.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_020.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_003.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_043.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_026.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_003.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_014.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_034.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_054.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_058.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_068.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_054.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_037.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_043.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_045.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_031.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_053.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_061.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_074.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_073.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_050.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_062.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_072.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_053.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_070.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_019.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_095.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_035.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_079.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_065.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_001.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_012.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_017.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_066.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_020.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_006.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_005.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_026.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_100.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_039.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_027.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_044.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_042.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_033.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_075.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_039.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_084.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_004.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_001.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_023.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_067.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_033.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_031.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_015.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_059.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_080.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_055.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_094.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_028.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_018.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_034.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_019.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_067.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_056.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_064.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_077.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_081.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_073.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_028.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_024.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_036.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_052.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_048.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_005.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_016.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_077.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_042.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_076.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_045.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_096.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_002.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_013.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_061.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_047.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_032.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_069.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_022.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_017.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_078.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_010.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_083.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_046.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_090.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_035.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_086.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_041.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_046.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_048.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_060.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_047.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_007.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_082.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_059.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_071.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_049.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_013.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_011.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_021.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_010.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_011.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_038.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_099.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_030.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_085.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_006.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_065.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_091.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_038.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_074.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_093.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_076.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_021.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_097.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_032.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_018.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_012.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_068.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_089.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_092.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_025.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_098.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_063.wav",
+        "label": "klakson_mobil"
+      }
+    ],
+    "val": [
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_070.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_087.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_062.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_040.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_050.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_088.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_066.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_041.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_002.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_072.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_051.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_015.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_057.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_008.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_069.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_051.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_044.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_075.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_055.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_030.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_060.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_056.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_024.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_008.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_009.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_009.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_052.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_023.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_040.wav",
+        "label": "klakson_mobil"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_027.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_036.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_058.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_063.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_071.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_007.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\ambulance\\ambulance_029.wav",
+        "label": "ambulance"
+      },
+      {
+        "file_path": "C:\\Users\\USER\\Documents\\KULIAH\\TUGAS AKHIR\\audio_classification\\data\\klakson_mobil\\mobil_064.wav",
+        "label": "klakson_mobil"
+      }
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+# Ignore confusion matrix output
+confusion_matrix/
+
+# Ignore Weights & Biases logs
+wandb/
+
+# Ignore Python bytecode caches
+__pycache__/
+**/__pycache__/
+
+# Ignore dataset directory
+data/
+
+# Optional common artifacts (hapus jika tidak perlu)
+*.py[cod]
+*.log
+.env
