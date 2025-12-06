@@ -8,7 +8,7 @@ class PiczakCNN(nn.Module):
     "Environmental Sound Classification with Convolutional Neural Networks" by K. Piczak.
     This version includes the ReLU activations after each convolutional layer as specified in the paper's text.
     """
-    def __init__(self, num_classes, input_shape=(60, 41)):
+    def __init__(self, num_classes, input_shape=(60, 41), dropout_rate=0.5):
         super(PiczakCNN, self).__init__()
 
         # --- First Convolutional Block (Conv + ReLU) ---
@@ -17,7 +17,7 @@ class PiczakCNN(nn.Module):
             nn.ReLU()
         )
         self.pool1 = nn.MaxPool2d(kernel_size=(4, 3), stride=(1, 3))
-        self.dropout1 = nn.Dropout(0.5)
+        self.dropout1 = nn.Dropout(dropout_rate)
 
         # --- Second Convolutional Block (Conv + ReLU) ---
         self.conv_block2 = nn.Sequential(
@@ -29,17 +29,18 @@ class PiczakCNN(nn.Module):
         self.flatten = nn.Flatten()
         
         # --- Fully Connected Layers ---
-        self.dropout2 = nn.Dropout(0.5)
+        self.dropout2 = nn.Dropout(dropout_rate)
         
         # Calculate the input size for the first fully connected layer automatically
         with torch.no_grad():
             dummy_input = torch.zeros(1, 2, *input_shape)
             dummy_output = self._forward_conv(dummy_input)
-            fc1_input_features = dummy_output.shape[1]
+            dummy_output = self.flatten(dummy_output)
+            fc1_input_features = dummy_output.shape[1]  
             
         self.fc1 = nn.Linear(fc1_input_features, 5000)
         self.relu1 = nn.ReLU()
-        self.dropout3 = nn.Dropout(0.5)
+        self.dropout3 = nn.Dropout(dropout_rate)
         
         self.fc2 = nn.Linear(5000, 5000)
         self.relu2 = nn.ReLU()
@@ -52,17 +53,12 @@ class PiczakCNN(nn.Module):
         x = self.pool1(x)
         x = self.conv_block2(x)
         x = self.pool2(x)
-        return self.flatten(x)
+        return x
 
     def forward(self, x):
-        # Convolutional part
-        x = self.conv_block1(x) # Contains Conv1 + ReLU
-        x = self.pool1(x)
-        x = self.dropout1(x)
+        # x: [B, C, n_mels, T]
+        x = self._forward_conv(x)
 
-        x = self.conv_block2(x) # Contains Conv2 + ReLU
-        x = self.pool2(x)
-        
         # Flatten and apply dropout before FC layers
         x = self.flatten(x)
         x = self.dropout2(x)

@@ -15,3 +15,14 @@ data/
 *.py[cod]
 *.log
 .env
+
+# Ignore saved best model weights
+best_model_fold1.pth
+best_model_fold2.pth
+best_model_fold3.pth
+best_model_fold4.pth
+best_model_fold5.pth
+best_model.pth
+
+augmentation_analysis/
+checkpoints/
