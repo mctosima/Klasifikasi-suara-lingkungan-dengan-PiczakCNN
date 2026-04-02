@@ -1,0 +1,7 @@
+torch==2.7.1
+torchaudio==2.7.1
+numpy==2.2.6
+scikit-learn==1.7.1
+matplotlib==3.10.5
+wandb==0.21.3
+torchinfo==1.8.0
