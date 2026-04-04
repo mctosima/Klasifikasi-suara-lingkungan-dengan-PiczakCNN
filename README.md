@@ -187,6 +187,7 @@ Jika repositori ini digunakan pada riset atau publikasi, mohon cantumkan sitasi 
   year         = {2026},
   type         = {Skripsi}
 }
+```
 
 ---
 
