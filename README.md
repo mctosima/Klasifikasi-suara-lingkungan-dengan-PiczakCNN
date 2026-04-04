@@ -60,31 +60,6 @@ pip install -r requirements.txt
 wandb login
 ```
 
----
-
-## Struktur Folder
-
-```text
-audio_classification/
-├── data/                         # Dataset audio per kelas
-│   ├── klakson_mobil/
-│   ├── klakson_motor/
-│   ├── pecahan_kaca/
-│   ├── sirine/
-│   └── tangisan_bayi/
-├── train.py                      # Training utama PiczakCNN
-├── ablation.py                   # Eksperimen ablation
-├── datareader.py                 # Loader dataset + preprocessing + augmentasi
-├── piczakCNN.py                  # Definisi arsitektur model
-├── create_5fold_split.py         # Generator split 5-fold
-├── split.json                    # File pembagian fold
-├── confusion_matrix/             # Output confusion matrix training
-├── spectrogram_output/           # Output visualisasi spektrogram
-├── huggingface_deploy/           # App deployment (inference)
-├── pretrained_models/
-├── requirements.txt
-└── README.md
-```
 
 ---
 
