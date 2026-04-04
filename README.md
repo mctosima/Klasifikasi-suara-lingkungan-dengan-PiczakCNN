@@ -7,7 +7,6 @@ Sistem klasifikasi audio lingkungan untuk tugas akhir menggunakan arsitektur Pic
 ## Daftar Isi
 - [Requirements](#requirements)
 - [Instalasi](#instalasi)
-- [Struktur Folder](#struktur-folder)
 - [Cara Menjalankan](#cara-menjalankan)
 - [Pipeline Preprocessing](#pipeline-preprocessing)
 - [Troubleshooting](#troubleshooting)
