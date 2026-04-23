@@ -1,0 +1,1195 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{none/global//global/global/global}
+  \entry{Fatih.Demir}{article}{}{}
+    \name{author}{3}{}{%
+      {{hash=DF}{%
+         family={Demir},
+         familyi={D\bibinitperiod},
+         given={Fatih},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=ADA}{%
+         family={Abdullah},
+         familyi={A\bibinitperiod},
+         given={Daban\bibnamedelima Abdulsalam},
+         giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Sengur},
+         familyi={S\bibinitperiod},
+         given={Abdulkadir},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \keyw{Feature extraction;Hidden Markov models;Spectrogram;Support vector
+  machines;Training;Convolution;Time-frequency analysis;Environmental sound
+  classification;spectrogram images;CNN model;deep features}
+    \strng{namehash}{DF+1}
+    \strng{fullhash}{DFADASA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1109/ACCESS.2020.2984903
+    \endverb
+    \field{pages}{66529\bibrangedash 66537}
+    \field{title}{A New Deep CNN Model for Environmental Sound Classification}
+    \field{volume}{8}
+    \field{journaltitle}{IEEE Access}
+    \field{year}{2020}
+  \endentry
+
+  \entry{Salem.Osman}{article}{}{}
+    \name{author}{3}{}{%
+      {{hash=SO}{%
+         family={Salem},
+         familyi={S\bibinitperiod},
+         given={Osman},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=MA}{%
+         family={Mehaoua},
+         familyi={M\bibinitperiod},
+         given={Ahmed},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BR}{%
+         family={Boutaba},
+         familyi={B\bibinitperiod},
+         given={Raouf},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \keyw{Visualization;Accuracy;Working environment noise;Feature
+  extraction;Ensemble learning;Background noise;Sound recognition;Auditory
+  system;Internet of Things;Deafness;Human factors}
+    \strng{namehash}{SO+1}
+    \strng{fullhash}{SOMABR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1109/IOTM.001.2400140
+    \endverb
+    \field{number}{4}
+    \field{pages}{14\bibrangedash 21}
+    \field{title}{Vehicle Sound Recognition Assistance in IoT Systems for
+  Hearing-Impaired Drivers}
+    \field{volume}{8}
+    \field{journaltitle}{IEEE Internet of Things Magazine}
+    \field{year}{2025}
+  \endentry
+
+  \entry{ChenRoad2019}{inproceedings}{}{}
+    \name{author}{6}{}{%
+      {{hash=CC}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=KP}{%
+         family={Kuo},
+         familyi={K\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=CY}{%
+         family={Chiang},
+         familyi={C\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=LJ}{%
+         family={Liang},
+         familyi={L\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=LK}{%
+         family={Liang},
+         familyi={L\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=CP}{%
+         family={Chang},
+         familyi={C\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CC+1}
+    \strng{fullhash}{CCKPCYLJLKCP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{2019 IEEE 8th Global Conference on Consumer Electronics
+  (GCCE)}
+    \verb{doi}
+    \verb 10.1109/GCCE46687.2019.9015516
+    \endverb
+    \field{pages}{933\bibrangedash 936}
+    \field{title}{Audio-Based Early Warning System of Sound Events on the Road
+  for Improving the Safety of Hearing-Impaired People}
+    \field{year}{2019}
+  \endentry
+
+  \entry{Tasripan2024}{article}{}{}
+    \name{author}{3}{}{%
+      {{hash=TT}{%
+         family={Tasripan},
+         familyi={T\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=KH}{%
+         family={Kusuma},
+         familyi={K\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=HA}{%
+         family={Huzaini},
+         familyi={H\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TT+1}
+    \strng{fullhash}{TTKHHA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.24018/ejece.2024.8.3.621
+    \endverb
+    \field{number}{3}
+    \field{title}{Design and Implementation of Environmental Warning Systems
+  for Drivers with Hearing Impairments}
+    \field{volume}{8}
+    \field{journaltitle}{European Journal of Electrical Engineering and
+  Computer Science}
+    \field{year}{2024}
+  \endentry
+
+  \entry{KameliaKusuma2024}{inproceedings}{}{}
+    \name{author}{2}{}{%
+      {{hash=KR}{%
+         family={Kamelia},
+         familyi={K\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=KH}{%
+         family={Kusuma},
+         familyi={K\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KRKH1}
+    \strng{fullhash}{KRKH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{2024 International Conference on TVET Excellence \&
+  Development (ICTeD)}
+    \verb{doi}
+    \verb 10.1109/ICTED62334.2024.10844649
+    \endverb
+    \field{pages}{213\bibrangedash 218}
+    \field{title}{Emergency Sound Classification and Visual Alert System for
+  Enhanced Situational Awareness}
+    \field{year}{2024}
+  \endentry
+
+  \entry{MunasingheDulanjani2025}{inproceedings}{}{}
+    \name{author}{2}{}{%
+      {{hash=MT}{%
+         family={Munasinghe},
+         familyi={M\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=DY}{%
+         family={Dulanjani},
+         familyi={D\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MTDY1}
+    \strng{fullhash}{MTDY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{2025 7th International Conference on Advancements in
+  Computing (ICAC)}
+    \verb{doi}
+    \verb 10.1109/ICAC69156.2025.11361438
+    \endverb
+    \field{pages}{1\bibrangedash 6}
+    \field{title}{AI Powered Context Aware Emergency Sound Recognition System
+  for Enhancing Situational Awareness in Hearing Impaired Individuals}
+    \field{year}{2025}
+  \endentry
+
+  \entry{Tan2025}{article}{}{}
+    \name{author}{5}{}{%
+      {{hash=TS}{%
+         family={Tan},
+         familyi={T\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=LV}{%
+         family={Lim},
+         familyi={L\bibinitperiod},
+         given={V.},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=CH}{%
+         family={Chua},
+         familyi={C\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=MS}{%
+         family={Mohmad},
+         familyi={M\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=LK}{%
+         family={Lau},
+         familyi={L\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TS+1}
+    \strng{fullhash}{TSLVCHMSLK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.17576/jkukm-2025-37(6)-37
+    \endverb
+    \field{title}{Emergency Sound Recognition and Direction Indication Using
+  Machine Learning for Individuals with Hearing Loss}
+    \field{journaltitle}{Jurnal Kejuruteraan}
+    \field{year}{2025}
+  \endentry
+
+  \entry{Lujie.Peng}{article}{}{}
+    \name{author}{7}{}{%
+      {{hash=PL}{%
+         family={Peng},
+         familyi={P\bibinitperiod},
+         given={Lujie},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=YJ}{%
+         family={Yang},
+         familyi={Y\bibinitperiod},
+         given={Junyu},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=YL}{%
+         family={Yan},
+         familyi={Y\bibinitperiod},
+         given={Longke},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=CZ}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Zhiyi},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=XJ}{%
+         family={Xiao},
+         familyi={X\bibinitperiod},
+         given={Jianbiao},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=ZL}{%
+         family={Zhou},
+         familyi={Z\bibinitperiod},
+         given={Liang},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=ZJ}{%
+         family={Zhou},
+         familyi={Z\bibinitperiod},
+         given={Jun},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PL+1}
+    \strng{fullhash}{PLYJYLCZXJZLZJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.3390/s23156767
+    \endverb
+    \field{title}{BSN-ESC: A Big–Small Network-Based Environmental Sound
+  Classification Method for AIoT Applications}
+    \field{volume}{23}
+    \field{journaltitle}{Sensors (Basel, Switzerland)}
+    \field{year}{2023}
+  \endentry
+
+  \entry{Afsana.Mou}{article}{}{}
+    \name{author}{2}{}{%
+      {{hash=MA}{%
+         family={Mou},
+         familyi={M\bibinitperiod},
+         given={Afsana},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MM}{%
+         family={Milanova},
+         familyi={M\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MAMM1}
+    \strng{fullhash}{MAMM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.3390/sci6020021
+    \endverb
+    \field{title}{Performance Analysis of Deep Learning Model-Compression
+  Techniques for Audio Classification on Edge Devices}
+    \field{journaltitle}{Sci}
+    \field{year}{2024}
+  \endentry
+
+  \entry{Piczak}{inproceedings}{}{}
+    \name{author}{1}{}{%
+      {{hash=PKJ}{%
+         family={Piczak},
+         familyi={P\bibinitperiod},
+         given={Karol\bibnamedelima J.},
+         giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \keyw{Neural networks;Training;Accuracy;Convolution;Convolutional
+  codes;Yttrium;Pattern recognition;environmental sound;convolutional neural
+  networks;classification}
+    \strng{namehash}{PKJ1}
+    \strng{fullhash}{PKJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{2015 IEEE 25th International Workshop on Machine Learning
+  for Signal Processing (MLSP)}
+    \verb{doi}
+    \verb 10.1109/MLSP.2015.7324337
+    \endverb
+    \field{pages}{1\bibrangedash 6}
+    \field{title}{Environmental sound classification with convolutional neural
+  networks}
+    \field{year}{2015}
+  \endentry
+
+  \entry{Zhichao.Zhang}{article}{}{}
+    \name{author}{5}{}{%
+      {{hash=ZZ}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Zhichao},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=XS}{%
+         family={Xu},
+         familyi={X\bibinitperiod},
+         given={Shugong},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=ZS}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Shunqing},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=QT}{%
+         family={Qiao},
+         familyi={Q\bibinitperiod},
+         given={Tianhao},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=CS}{%
+         family={Cao},
+         familyi={C\bibinitperiod},
+         given={Shan},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ZZ+1}
+    \strng{fullhash}{ZZXSZSQTCS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1109/access.2019.2939495
+    \endverb
+    \field{pages}{130327\bibrangedash 130339}
+    \field{title}{Learning Attentive Representations for Environmental Sound
+  Classification}
+    \field{volume}{7}
+    \field{journaltitle}{IEEE Access}
+    \field{year}{2019}
+  \endentry
+
+  \entry{Zhichao.Zhang.2018}{article}{}{}
+    \name{author}{4}{}{%
+      {{hash=ZZ}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Zhichao},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=XS}{%
+         family={Xu},
+         familyi={X\bibinitperiod},
+         given={Shugong},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=CS}{%
+         family={Cao},
+         familyi={C\bibinitperiod},
+         given={Shan},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=ZS}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Shunqing},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ZZ+1}
+    \strng{fullhash}{ZZXSCSZS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1007/978-3-030-03335-4_31
+    \endverb
+    \field{pages}{356\bibrangedash 367}
+    \field{title}{Deep Convolutional Neural Network with Mixup for
+  Environmental Sound Classification}
+    \field{year}{2018}
+  \endentry
+
+  \entry{EnviromentalSoundClassification}{article}{}{}
+    \name{author}{2}{}{%
+      {{hash=BA}{%
+         family={Bansal},
+         familyi={B\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=GNK}{%
+         family={Garg},
+         familyi={G\bibinitperiod},
+         given={N.\bibnamedelima K.},
+         giveni={N\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BAGNK1}
+    \strng{fullhash}{BAGNK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1016/j.iswa.2022.200115
+    \endverb
+    \field{title}{Environmental Sound Classification: A descriptive review of
+  the literature}
+    \field{journaltitle}{Elsevier B.V}
+    \field{year}{2022}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{ChandrakalaJayalakshmi2019}{article}{}{}
+    \name{author}{2}{}{%
+      {{hash=CS}{%
+         family={Chandrakala},
+         familyi={C\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=JS}{%
+         family={Jayalakshmi},
+         familyi={J\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CSJS1}
+    \strng{fullhash}{CSJS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1145/3322240
+    \endverb
+    \field{number}{3}
+    \field{pages}{1\bibrangedash 34}
+    \field{title}{Environmental Audio Scene and Sound Event Recognition for
+  Autonomous Surveillance}
+    \field{volume}{52}
+    \field{journaltitle}{ACM Computing Surveys}
+    \field{year}{2019}
+  \endentry
+
+  \entry{Arai2018}{inproceedings}{}{}
+    \name{author}{6}{}{%
+      {{hash=AH}{%
+         family={Arai},
+         familyi={A\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=IT}{%
+         family={Ido},
+         familyi={I\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=SY}{%
+         family={Shimomura},
+         familyi={S\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=KH}{%
+         family={Kawabe},
+         familyi={K\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=NH}{%
+         family={Nambo},
+         familyi={N\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Seto},
+         familyi={S\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AH+1}
+    \strng{fullhash}{AHITSYKHNHSS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proceedings of the Twelfth International Conference on
+  Management Science and Engineering Management}
+    \verb{doi}
+    \verb 10.1007/978-3-319-93351-1_89
+    \endverb
+    \field{pages}{1043\bibrangedash 1052}
+    \field{title}{A System that Warns of Dangerous Environmental Sounds for the
+  Hearing Impaired}
+    \field{year}{2018}
+  \endentry
+
+  \entry{Shafiro2011}{article}{}{}
+    \name{author}{5}{}{%
+      {{hash=SV}{%
+         family={Shafiro},
+         familyi={S\bibinitperiod},
+         given={V.},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=GB}{%
+         family={Gygi},
+         familyi={G\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=CM}{%
+         family={Cheng},
+         familyi={C\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=VJ}{%
+         family={Vachhani},
+         familyi={V\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=MM}{%
+         family={Mulvey},
+         familyi={M\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SV+1}
+    \strng{fullhash}{SVGBCMVJMM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1097/AUD.0b013e3182064a87
+    \endverb
+    \field{number}{4}
+    \field{pages}{511\bibrangedash 523}
+    \field{title}{Perception of Environmental Sounds by Experienced Cochlear
+  Implant Patients}
+    \field{volume}{32}
+    \field{journaltitle}{Ear and Hearing}
+    \field{year}{2011}
+  \endentry
+
+  \entry{Via.Wahyuningtyas}{inproceedings}{}{}
+    \name{author}{1}{}{%
+      {{hash=V}{%
+         family={V.Wahyuningtyas},
+         familyi={V\bibinitperiod},
+      }}%
+    }
+    \keyw{MFCC,Audio,CNN,classification and feature extraction}
+    \strng{namehash}{V1}
+    \strng{fullhash}{V1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Sains, Aplikasi, Komputasi dan Teknologi Informasi}
+    \verb{doi}
+    \verb 10.30872/jsakti.v3i1.4442
+    \endverb
+    \field{number}{1}
+    \field{pages}{10\bibrangedash 17}
+    \field{title}{Implementasi Ekstraksi Fitur untuk Klasifikasi Suara Urban
+  menggunakan Deep Learning}
+    \field{volume}{3}
+    \field{year}{2021}
+  \endentry
+
+  \entry{Hendra.Kusumah}{article}{}{}
+    \name{author}{3}{}{%
+      {{hash=KH}{%
+         family={Kusumah},
+         familyi={K\bibinitperiod},
+         given={H},
+         giveni={H},
+      }}%
+      {{hash=NN}{%
+         family={Nabbillah},
+         familyi={N\bibinitperiod},
+         given={N},
+         giveni={N},
+      }}%
+      {{hash=A}{%
+         family={Audina.S},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {download.garuda.kemdikbud.go.id}%
+    }
+    \strng{namehash}{KH+1}
+    \strng{fullhash}{KHNNA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{1}
+    \field{title}{Klasifikasi Kendaraan Berbasis Suara Di Lalu Lintas:
+  Implementasi TinyML}
+    \field{volume}{9}
+    \field{type}{PDF}
+    \field{journaltitle}{Journal CERITA (Creative Education of Research in
+  Information Technology and Artificial informatics)}
+    \field{year}{2023}
+  \endentry
+
+  \entry{Anam.Bansal}{article}{}{}
+    \name{author}{2}{}{%
+      {{hash=B}{%
+         family={Bansal.A},
+         familyi={B\bibinitperiod},
+      }}%
+      {{hash=G}{%
+         family={Garg.N.K},
+         familyi={G\bibinitperiod},
+      }}%
+    }
+    \keyw{Environmental Sound Classification, Feature extraction, Feature
+  selection, Machine learning classifiers, Deep neural networks}
+    \strng{namehash}{BG1}
+    \strng{fullhash}{BG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Automatic environmental sound classification (ESC) is one of the upcoming
+  areas of research as most of the traditional studies are focused on speech
+  and music signals. Classifying environmental sounds such as glass breaking,
+  helicopter, baby crying and many more can aid in surveillance systems as well
+  as criminal investigations. In this paper, a vast range of literature in the
+  field of ESC is elucidated from various facets like preprocessing, feature
+  extraction, and classification techniques. Researchers have used various
+  noise removal and signal enhancement techniques to preprocess the signals.
+  This paper explicates multitude of datasets used in recent studies along with
+  the year of publication and maximum accuracy achieved with the dataset. Deep
+  Neural Networks surpass the traditional machine learning classifiers. The
+  future challenges and prospective research in this field are proposed. Since
+  no recent review on ESC has been published, this study will open up novel
+  ways for certain business applications and security systems.%
+    }
+    \verb{doi}
+    \verb https://doi.org/10.1016/j.iswa.2022.200115
+    \endverb
+    \field{issn}{2667-3053}
+    \field{pages}{200115}
+    \field{title}{Environmental Sound Classification: A descriptive review of
+  the literature}
+    \verb{url}
+    \verb https://www.sciencedirect.com/science/article/pii/S2667305322000539
+    \endverb
+    \field{volume}{16}
+    \field{journaltitle}{Intelligent Systems with Applications}
+    \field{year}{2022}
+  \endentry
+
+  \entry{Kaur.Singh}{unpublished}{}{}
+    \name{author}{2}{}{%
+      {{hash=KB}{%
+         family={Kaur},
+         familyi={K\bibinitperiod},
+         given={Baljinder},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Singh},
+         familyi={S\bibinitperiod},
+         given={Jaskirat},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \keyw{Audio Classification ; Environmental sounds classification ; Urban
+  sounds Dataset ; Speaker Diarization ; CNN ; SincNet ; Deep Learning}
+    \strng{namehash}{KBSJ1}
+    \strng{fullhash}{KBSJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{note}{working paper or preprint}
+    \field{title}{{Audio Classification: Environmental sounds classification}}
+    \verb{url}
+    \verb https://hal.science/hal-03501143
+    \endverb
+    \verb{file}
+    \verb https://hal.science/hal-03501143v1/file/Audio_Classification%20%281%2
+    \verb 9.pdf
+    \endverb
+    \field{month}{12}
+    \field{year}{2021}
+  \endentry
+
+  \entry{Lonce.Wyse}{misc}{}{}
+    \name{author}{1}{}{%
+      {{hash=WL}{%
+         family={Wyse},
+         familyi={W\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WL1}
+    \strng{fullhash}{WL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{eprint}
+    \verb 1706.09559
+    \endverb
+    \field{title}{Audio Spectrogram Representations for Processing with
+  Convolutional Neural Networks}
+    \verb{url}
+    \verb https://arxiv.org/abs/1706.09559
+    \endverb
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{cs.SD}
+    \field{year}{2017}
+  \endentry
+
+  \entry{Toyoshima2023}{article}{}{}
+    \name{author}{5}{}{%
+      {{hash=TI}{%
+         family={Toyoshima},
+         familyi={T\bibinitperiod},
+         given={Itsuki},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=OY}{%
+         family={Okada},
+         familyi={O\bibinitperiod},
+         given={Yoshifumi},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=IM}{%
+         family={Ishimaru},
+         familyi={I\bibinitperiod},
+         given={Momoko},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=UR}{%
+         family={Uchiyama},
+         familyi={U\bibinitperiod},
+         given={Ryunosuke},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=TM}{%
+         family={Tada},
+         familyi={T\bibinitperiod},
+         given={Mayu},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TI+1}
+    \strng{fullhash}{TIOYIMURTM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    The existing research on emotion recognition commonly uses mel spectrogram
+  (MelSpec) and Geneva minimalistic acoustic parameter set (GeMAPS) as acoustic
+  parameters to learn the audio features. MelSpec can represent the time-series
+  variations of each frequency but cannot manage multiple types of audio
+  features. On the other hand, GeMAPS can handle multiple audio features but
+  fails to provide information on their time-series variations. Thus, this
+  study proposes a speech emotion recognition model based on a multi-input deep
+  neural network that simultaneously learns these two audio features. The
+  proposed model comprises three parts, specifically, for learning MelSpec in
+  image format, learning GeMAPS in vector format, and integrating them to
+  predict the emotion. Additionally, a focal loss function is introduced to
+  address the imbalanced data problem among the emotion classes. The results of
+  the recognition experiments demonstrate weighted and unweighted accuracies of
+  0.6657 and 0.6149, respectively, which are higher than or comparable to those
+  of the existing state-of-the-art methods. Overall, the proposed model
+  significantly improves the recognition accuracy of the emotion
+  “happiness”, which has been difficult to identify in previous studies
+  owing to limited data. Therefore, the proposed model can effectively
+  recognize emotions from speech and can be applied for practical purposes with
+  future development.%
+    }
+    \verb{doi}
+    \verb 10.3390/s23031743
+    \endverb
+    \field{issn}{1424-8220}
+    \field{number}{3}
+    \field{title}{Multi-Input Speech Emotion Recognition Model Using Mel
+  Spectrogram and GeMAPS}
+    \verb{url}
+    \verb https://www.mdpi.com/1424-8220/23/3/1743
+    \endverb
+    \field{volume}{23}
+    \field{journaltitle}{Sensors}
+    \field{year}{2023}
+  \endentry
+
+  \entry{Indana.Nihayatul}{article}{}{}
+    \name{author}{5}{}{%
+      {{hash=HIN}{%
+         family={Husna},
+         familyi={H\bibinitperiod},
+         given={I.\bibnamedelima N.},
+         giveni={I\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=UM}{%
+         family={Ulum},
+         familyi={U\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SAK}{%
+         family={Saputro},
+         familyi={S\bibinitperiod},
+         given={A.\bibnamedelima K.},
+         giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=LDT}{%
+         family={Laksono},
+         familyi={L\bibinitperiod},
+         given={D.\bibnamedelima T.},
+         giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=PDN}{%
+         family={Purnamasari},
+         familyi={P\bibinitperiod},
+         given={D.\bibnamedelima N.},
+         giveni={D\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HIN+1}
+    \strng{fullhash}{HINUMSAKLDTPDN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Rancang Bangun Sistem Deteksi Dan Perhitungan Jumlah Orang
+  Menggunakan Metode Convolutional Neural Network (CNN)}
+    \field{volume}{7}
+    \field{journaltitle}{Seminar Nasional Fortei Regional}
+  \endentry
+
+  \entry{arsitekturCNN}{article}{}{}
+    \name{author}{5}{}{%
+      {{hash=WGE}{%
+         family={Woo},
+         familyi={W\bibinitperiod},
+         given={Go-Eun},
+         giveni={G\bibinithyphendelim E\bibinitperiod},
+      }}%
+      {{hash=PSB}{%
+         family={Park},
+         familyi={P\bibinitperiod},
+         given={Sang-Bo},
+         giveni={S\bibinithyphendelim B\bibinitperiod},
+      }}%
+      {{hash=PGT}{%
+         family={Park},
+         familyi={P\bibinitperiod},
+         given={Gi-Tae},
+         giveni={G\bibinithyphendelim T\bibinitperiod},
+      }}%
+      {{hash=JM}{%
+         family={Junaid},
+         familyi={J\bibinitperiod},
+         given={Muhammad},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=KHW}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={Hyung-Won},
+         giveni={H\bibinithyphendelim W\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Tech Science Press}%
+    }
+    \strng{namehash}{WGE+1}
+    \strng{fullhash}{WGEPSBPGTJMKHW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.32604/cmc.2025.063723
+    \endverb
+    \field{issn}{1546-2226}
+    \field{note}{1 cites; Query date: 2025-12-04 01:09:23}
+    \field{number}{2}
+    \field{pages}{3241\bibrangedash 3257}
+    \field{title}{Low-Complexity Hardware Architecture for Batch Normalization
+  of CNN Training Accelerator}
+    \verb{url}
+    \verb https://doi.org/10.32604/cmc.2025.063723
+    \endverb
+    \field{volume}{84}
+    \field{type}{journal-article}
+    \field{journaltitle}{Computers, Materials \&amp; Continua}
+    \field{year}{2025}
+  \endentry
+
+  \entry{Kong2020PANNs}{article}{}{}
+    \name{author}{6}{}{%
+      {{hash=KQ}{%
+         family={Kong},
+         familyi={K\bibinitperiod},
+         given={Qiuqiang},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=CY}{%
+         family={Cao},
+         familyi={C\bibinitperiod},
+         given={Yin},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=IT}{%
+         family={Iqbal},
+         familyi={I\bibinitperiod},
+         given={Turab},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=WY}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Yuxuan},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=WW}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Wenwu},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=PMD}{%
+         family={Plumbley},
+         familyi={P\bibinitperiod},
+         given={Mark\bibnamedelima D.},
+         giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KQ+1}
+    \strng{fullhash}{KQCYITWYWWPMD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1109/TASLP.2020.3030497
+    \endverb
+    \field{pages}{2880\bibrangedash 2894}
+    \field{title}{PANNs: Large-Scale Pretrained Audio Neural Networks for Audio
+  Pattern Recognition}
+    \field{volume}{28}
+    \field{journaltitle}{IEEE/ACM Transactions on Audio, Speech, and Language
+  Processing}
+    \field{year}{2020}
+  \endentry
+
+  \entry{Townsend}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=TJT}{%
+         family={Townsend},
+         familyi={T\bibinitperiod},
+         given={J.\bibnamedelima T.},
+         giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TJT1}
+    \strng{fullhash}{TJT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.3758/BF03213026
+    \endverb
+    \field{issn}{1532-5962}
+    \field{number}{1}
+    \field{pages}{40\bibrangedash 50}
+    \field{title}{Theoretical analysis of an alphabetic confusion matrix}
+    \verb{url}
+    \verb https://doi.org/10.3758/BF03213026
+    \endverb
+    \field{volume}{9}
+    \field{journaltitle}{Perception \& Psychophysics}
+    \field{year}{1971}
+  \endentry
+
+  \entry{Lubis}{article}{}{}
+    \name{author}{3}{}{%
+      {{hash=LA}{%
+         family={Lubis},
+         familyi={L\bibinitperiod},
+         given={Andi},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=PS}{%
+         family={Purnama},
+         familyi={P\bibinitperiod},
+         given={Sevia},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=AM}{%
+         family={Afandi},
+         familyi={A\bibinitperiod},
+         given={Mas},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LA+1}
+    \strng{fullhash}{LAPSAM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.33633/tc.v22i3.8464
+    \endverb
+    \field{pages}{589\bibrangedash 598}
+    \field{title}{Sistem Pendeteksi Kantuk Berbasis Metode Haar Cascade Untuk
+  Aplikasi Computer Vision}
+    \field{volume}{22}
+    \field{journaltitle}{Techno.Com}
+    \field{month}{08}
+    \field{year}{2023}
+  \endentry
+
+  \entry{Borstelmann}{article}{}{}
+    \name{author}{2}{}{%
+      {{hash=BS}{%
+         family={Borstelmann},
+         familyi={B\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=JS}{%
+         family={Jha},
+         familyi={J\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BSJS1}
+    \strng{fullhash}{BSJS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Confusion in the Matrix: Going Beyond the Roc Curve}
+    \field{journaltitle}{viXra}
+    \field{year}{2019}
+  \endentry
+
+  \entry{Takahashi}{article}{}{}
+    \name{author}{4}{}{%
+      {{hash=TK}{%
+         family={Takahashi},
+         familyi={T\bibinitperiod},
+         given={Kanae},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=YK}{%
+         family={Yamamoto},
+         familyi={Y\bibinitperiod},
+         given={Kouji},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=KA}{%
+         family={Kuchiba},
+         familyi={K\bibinitperiod},
+         given={Aya},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=KT}{%
+         family={Koyama},
+         familyi={K\bibinitperiod},
+         given={Tatsuki},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TK+1}
+    \strng{fullhash}{TKYKKAKT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1007/s10489-021-02635-5
+    \endverb
+    \field{issn}{1573-7497}
+    \field{number}{5}
+    \field{pages}{4961\bibrangedash 4972}
+    \field{title}{Confidence interval for micro-averaged F1 and macro-averaged
+  F1 scores}
+    \verb{url}
+    \verb https://doi.org/10.1007/s10489-021-02635-5
+    \endverb
+    \field{volume}{52}
+    \field{journaltitle}{Applied Intelligence}
+    \field{year}{2022}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+\enddatalist
+\endinput

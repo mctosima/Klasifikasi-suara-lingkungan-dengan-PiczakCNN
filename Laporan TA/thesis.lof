@@ -1,0 +1,26 @@
+\babel@toc {bahasa}{}\relax 
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Mel Spectrogram}}{13}{figure.caption.19}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Arsitektur Convolutional Neural Network (CNN)}}{14}{figure.caption.20}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Arsitektur PiczakCNN}}{14}{figure.caption.21}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Alur Penelitian}}{20}{figure.caption.22}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Metode Pengembangan Model}}{24}{figure.caption.23}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Alur \textit {Pre-processing} Data}}{26}{figure.caption.25}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Sebelum \textit {Time Shifting}}}{27}{figure.caption.26}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Sesudah \textit {Time Shifting}}}{27}{figure.caption.27}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Sebelum Penambahan Derau}}{28}{figure.caption.28}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Sesudah Penambahan Derau}}{28}{figure.caption.29}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Sebelum \textit {Spectrogram Augmentation}}}{29}{figure.caption.30}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Sesudah \textit {Spectrogram Augmentation}}}{29}{figure.caption.31}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Arsitektur \textit {Piczak-CNN} \blx@tocontentsinit {0}\cite {Piczak}}}{32}{figure.caption.32}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Alur Pipeline Pre-processing Data Audio}}{42}{figure.caption.36}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Perbandingan Log-Mel Spectrogram}}{42}{figure.caption.37}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Klakson Mobil}}{43}{figure.caption.38}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Klakson Motor}}{43}{figure.caption.39}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Pecahan Kaca}}{44}{figure.caption.40}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Sirine}}{44}{figure.caption.41}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Tangisan Bayi}}{45}{figure.caption.42}%
+\addvspace {10\p@ }

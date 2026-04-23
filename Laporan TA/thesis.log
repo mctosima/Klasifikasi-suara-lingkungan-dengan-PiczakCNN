@@ -1,0 +1,2777 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.1) (preloaded format=pdflatex 2026.2.16)  23 APR 2026 23:50
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"c:/Users/USER/Documents/KULIAH/TUGAS AKHIR/FINAL_TUGAS_AKHIR/thesis.tex"
+(c:/Users/USER/Documents/KULIAH/TUGAS AKHIR/FINAL_TUGAS_AKHIR/thesis.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
+(C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count275
+\c@chapter=\count276
+\c@section=\count277
+\c@subsection=\count278
+\c@subsubsection=\count279
+\c@paragraph=\count280
+\c@subparagraph=\count281
+\c@figure=\count282
+\c@table=\count283
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count284
+\Gm@cntv=\count285
+\c@Gm@tempcnt=\count286
+\Gm@bindingoffset=\dimen149
+\Gm@wd@mp=\dimen150
+\Gm@odd@mp=\dimen151
+\Gm@even@mp=\dimen152
+\Gm@layoutwidth=\dimen153
+\Gm@layoutheight=\dimen154
+\Gm@layouthoffset=\dimen155
+\Gm@layoutvoffset=\dimen156
+\Gm@dimlist=\toks18
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (config/config.sty (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks19
+\inpenc@posthook=\toks20
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen157
+\captionmargin=\dimen158
+\caption@leftmargin=\dimen159
+\caption@rightmargin=\dimen160
+\caption@width=\dimen161
+\caption@indent=\dimen162
+\caption@parindent=\dimen163
+\caption@hangindent=\dimen164
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count287
+\c@continuedfloat=\count288
+)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count289
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count290
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen165
+\Gin@req@width=\dimen166
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/titling\titling.sty
+Package: titling 2009/09/04 v2.1d maketitle typesetting
+\thanksmarkwidth=\skip51
+\thanksmargin=\skip52
+\droptitle=\skip53
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/blindtext\blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count291
+\c@Blindtext=\count292
+\c@blind@countparstart=\count293
+\blind@countxx=\count294
+\blindtext@numBlindtext=\count295
+\blind@countyy=\count296
+\c@blindlist=\count297
+\c@blindlistlevel=\count298
+\c@blindlist@level=\count299
+\blind@listitem=\count300
+\c@blind@listcount=\count301
+\c@blind@levelcount=\count302
+\blind@mathformula=\count303
+\blind@Mathformula=\count304
+\c@blind@randomcount=\count305
+\c@blind@randommax=\count306
+\c@blind@pangramcount=\count307
+\c@blind@pangrammax=\count308
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/sectsty\sectsty.sty
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading styles
+
+
+LaTeX Warning: Command \underbar  has changed.
+               Check if current package is valid.
+
+
+LaTeX Warning: Command \underline  has changed.
+               Check if current package is valid.
+
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/chngcntr\chngcntr.sty
+Package: chngcntr 2018/04/09 v1.1a change counter resetting
+Package chngcntr Info: \counterwithout already defined.
+(chngcntr)             Quitting chngcntr on input line 21.
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count309
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
+\col@sep=\dimen167
+\ar@mcellbox=\box53
+\extrarowheight=\dimen168
+\NC@list=\toks21
+\extratabsurround=\skip54
+\backup@length=\skip55
+\ar@cellbox=\box54
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count310
+\float@exts=\toks22
+\float@box=\box55
+\@float@everytoks=\toks23
+\@floatcapt=\box56
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
+\LTleft=\skip56
+\LTright=\skip57
+\LTpre=\skip58
+\LTpost=\skip59
+\LTchunksize=\count311
+\LTcapwidth=\dimen169
+\LT@head=\box57
+\LT@firsthead=\box58
+\LT@foot=\box59
+\LT@lastfoot=\box60
+\LT@gbox=\box61
+\LT@cols=\count312
+\LT@rows=\count313
+\c@LT@tables=\count314
+\c@LT@chunks=\count315
+\LT@p@ftn=\toks24
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2025/07/09 v2.17z AMS math features
+\@mathmargin=\skip60
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks25
+\ex@=\dimen170
+)) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen171
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count316
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count317
+\leftroot@=\count318
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count319
+\DOTSCASE@=\count320
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box62
+\strutbox@=\box63
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen172
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count321
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count322
+\dotsspace@=\muskip17
+\c@parentequation=\count323
+\dspbrk@lvl=\count324
+\tag@help=\toks26
+\row@=\count325
+\column@=\count326
+\maxfields@=\count327
+\andhelp@=\toks27
+\eqnshift@=\dimen173
+\alignsep@=\dimen174
+\tagshift@=\dimen175
+\tagwidth@=\dimen176
+\totwidth@=\dimen177
+\lineht@=\dimen178
+\@envbody=\toks28
+\multlinegap=\skip61
+\multlinetaggap=\skip62
+\mathdisplay@stack=\toks29
+LaTeX Info: Redefining \[ on input line 2950.
+LaTeX Info: Redefining \] on input line 2951.
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\labelindent=\skip63
+\enit@outerparindent=\dimen179
+\enit@toks=\toks30
+\enit@inbox=\box64
+\enit@count@id=\count328
+\enitdp@description=\count329
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2026-01-29 v2.58 Cross-referencing by name of section
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)))
+\c@section@level=\count330
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2026-01-29 v7.01p Hypertext links for LaTeX
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+\@linkdim=\dimen180
+\Hy@linkcounter=\count331
+\Hy@pagecounter=\count332
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2026-01-29 v7.01p Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count333
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2026-01-29 v7.01p Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4072.
+Package hyperref Info: Hyper figures OFF on input line 4201.
+Package hyperref Info: Link nesting OFF on input line 4206.
+Package hyperref Info: Hyper index ON on input line 4209.
+Package hyperref Info: Plain pages OFF on input line 4216.
+Package hyperref Info: Backreferencing OFF on input line 4221.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4468.
+\c@Hy@tempcnt=\count334
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4807.
+\XeTeXLinkMargin=\dimen181
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count335
+\Field@Width=\dimen182
+\Fld@charsize=\dimen183
+Package hyperref Info: Hyper figures OFF on input line 6084.
+Package hyperref Info: Link nesting OFF on input line 6089.
+Package hyperref Info: Hyper index ON on input line 6092.
+Package hyperref Info: backreferencing OFF on input line 6099.
+Package hyperref Info: Link coloring OFF on input line 6104.
+Package hyperref Info: Link coloring with OCG OFF on input line 6109.
+Package hyperref Info: PDF/A mode OFF on input line 6114.
+\Hy@abspage=\count336
+\c@Item=\count337
+\c@Hfootnote=\count338
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2026-01-29 v7.01p Hyperref driver for pdfTeX
+\Fld@listcount=\count339
+\c@bookmark@seq@number=\count340
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
+)
+\Hy@SectionHShift=\skip64
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2026-01-19 L3 programming layer (loader) 
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count341
+))
+Package: l3keys2e 2025-10-09 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count342
+\l__lipsum_a_int=\count343
+\l__lipsum_b_int=\count344
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex))
+Package hyperref Info: Option `colorlinks' set `true' on input line 37.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.sty
+Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/parskip\parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box65
+\beforetitleunit=\skip65
+\aftertitleunit=\skip66
+\ttl@plus=\dimen184
+\ttl@minus=\dimen185
+\ttl@toksa=\toks31
+\titlewidth=\dimen186
+\titlewidthlast=\dimen187
+\titlewidthfirst=\dimen188
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
+Package: microtype 2025/07/09 v3.2b Micro-typographical refinements (RS)
+\MT@toks=\toks32
+\MT@tempbox=\box66
+\MT@count=\count345
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1087.
+LaTeX Info: Redefining \leftprotrusion on input line 1088.
+\MT@prot@toks=\toks33
+LaTeX Info: Redefining \rightprotrusion on input line 1107.
+LaTeX Info: Redefining \textls on input line 1449.
+\MT@outer@kern=\dimen189
+LaTeX Info: Redefining \microtypecontext on input line 2053.
+LaTeX Info: Redefining \textmicrotypecontext on input line 2070.
+\MT@listname@count=\count346
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdftex.def
+File: microtype-pdftex.def 2025/07/09 v3.2b Definitions specific to pdftex (RS)
+LaTeX Info: Redefining \lsstyle on input line 944.
+LaTeX Info: Redefining \lslig on input line 944.
+\MT@outer@space=\skip67
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
+File: microtype.cfg 2025/07/09 v3.2b microtype main configuration file (RS)
+)
+LaTeX Info: Redefining \microtypesetup on input line 3065.
+)
+\sectionindent=\skip68
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/newtx\newtx.sty
+Package: newtx 2025/01/06 v1.755(Michael Sharpe) latex and unicode latex support for newtxmath and a supported text font family, or for newtxtext and an otf math package
+ `newtx'v1.755, 2025/01/06 Integrated loading of newtxmath and a text font  for all latex engines (msharpe) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/fontaxes\fontaxes.sty
+Package: fontaxes 2026-01-02 v2.0.2 Font selection axes (deprecated)
+Applying: [2024-11-01] Use figureversions if present on input line 74.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/figureversions\figureversions.sty
+Package: figureversions 2025-04-29 v1.0.1 Figure versions
+)
+Already applied: [0000-00-00] Fall back to v1 on input line 76.
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.sty) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstring.sty (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstring.tex
+\xs_counta=\count347
+\xs_countb=\count348
+)
+Package: xstring 2023/08/22 v1.86 String manipulations (CT)
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks34
+\XKV@tempa@toks=\toks35
+)
+\XKV@depth=\count349
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\tx@x=\dimen190
+\tx@y=\dimen191
+\tx@tmpdima=\dimen192
+\tx@tmpdimb=\dimen193
+\tx@tmpdimC=\dimen194
+\tx@dimX=\dimen195
+\tx@dimY=\dimen196
+\tx@dimZ=\dimen197
+\tx@numrbase=\dimen198
+\tx@dnombase=\dimen199
+\tx@bartop=\dimen256
+\tx@barbot=\dimen257
+\tx@bartopex=\dimen258
+\tx@barbotex=\dimen259
+
+IV
+(C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/newtx\newtxmath.sty
+Package: newtxmath 2024/09/22 v1.754
+ `newtxmath' v1.754, 2024/09/22 Math macros based originally on txfonts (msharpe) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/oberdiek\centernot.sty
+Package: centernot 2016/05/16 v1.4 Centers the not symbol horizontally (HO)
+)
+\tx@cntz=\count350
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/binhex\binhex.tex)
+\tx@Isdigit=\count351
+\tx@IsAlNum=\count352
+\tx@tA=\toks36
+\tx@tB=\toks37
+\tx@su=\read2
+
+amsthm NOT loaded
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 402.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/minntx/m/n on input line 402.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/minntx/m/n on input line 402.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/minntx/m/n --> OT1/minntx/b/n on input line 403.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 410.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/qhv/m/n on input line 410.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/qhv/m/n on input line 410.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/qhv/m/n --> OT1/qhv/b/n on input line 412.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 419.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/minntx/m/it on input line 419.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/minntx/m/it on input line 419.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 420.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/ntxtt/m/n on input line 420.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/ntxtt/m/n on input line 420.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 422.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/minntx/b/n on input line 422.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/minntx/b/n on input line 422.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/minntx/m/it --> OT1/minntx/b/it on input line 423.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/ntxtt/m/n --> OT1/ntxtt/b/n on input line 426.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 534.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ntxmi/m/it on input line 534.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ntxmi/m/it on input line 534.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/ntxmi/m/it --> OML/ntxmi/b/it on input line 535.
+\symlettersA=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
+(Font)                  U/ntxmia/m/it --> U/ntxmia/b/it on input line 582.
+Now handling font encoding LMS ...
+... no UTF-8 mapping file for font encoding LMS
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 604.
+LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 604.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> LMS/ntxsy/m/n on input line 604.
+LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 604.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> LMS/ntxsy/m/n on input line 604.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  LMS/ntxsy/m/n --> LMS/ntxsy/b/n on input line 605.
+\symAMSm=\mathgroup5
+LaTeX Font Info:    Overwriting symbol font `AMSm' in version `bold'
+(Font)                  U/ntxsym/m/n --> U/ntxsym/b/n on input line 630.
+\symsymbolsC=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
+(Font)                  U/ntxsyc/m/n --> U/ntxsyc/b/n on input line 651.
+Now handling font encoding LMX ...
+... no UTF-8 mapping file for font encoding LMX
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 664.
+LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 664.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 664.
+LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 664.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 664.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  LMX/ntxexx/m/n --> LMX/ntxexx/b/n on input line 665.
+\symlargesymbolsTXA=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `largesymbolsTXA' in version `bold'
+(Font)                  U/ntxexa/m/n --> U/ntxexa/b/n on input line 679.
+\tx@sbptoks=\toks38
+LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 902.
+LaTeX Font Info:    Redeclaring math delimiter \rfloor on input line 903.
+LaTeX Font Info:    Redeclaring math delimiter \lceil on input line 904.
+LaTeX Font Info:    Redeclaring math delimiter \rceil on input line 905.
+LaTeX Font Info:    Redeclaring math delimiter \lbrace on input line 910.
+LaTeX Font Info:    Redeclaring math delimiter \rbrace on input line 911.
+LaTeX Font Info:    Redeclaring math delimiter \langle on input line 913.
+LaTeX Font Info:    Redeclaring math delimiter \rangle on input line 915.
+LaTeX Font Info:    Redeclaring math delimiter \arrowvert on input line 919.
+LaTeX Font Info:    Redeclaring math delimiter \vert on input line 920.
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 966.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 991.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 992.
+LaTeX Font Info:    Redeclaring math accent \vec on input line 2057.
+LaTeX Info: Redefining \Bbbk on input line 2847.
+LaTeX Info: Redefining \not on input line 2995.
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/newtx\newtxtext.sty
+Package: newtxtext 2024/04/01 v1.744(Michael Sharpe) latex and unicode latex support for TeXGyreTermesX
+ `newtxtext' v1.744, 2024/04/01 Text macros taking advantage of TeXGyre Termes and its extensions (msharpe) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/xpatch\xpatch.sty
+Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+Package: xparse 2025-10-09 L3 Experimental document command parser
+)) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+)
+LaTeX Font Info:    Setting ntxLF sub-encoding to TS1/0 on input line 24.
+LaTeX Font Info:    Setting ntxTLF sub-encoding to TS1/0 on input line 24.
+LaTeX Font Info:    Setting ntxOsF sub-encoding to TS1/0 on input line 24.
+LaTeX Font Info:    Setting ntxTOsF sub-encoding to TS1/0 on input line 24.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/binhex\binhex.tex)
+\ntx@tmpcnta=\count353
+\ntx@cnt=\count354
+LaTeX Info: Redefining \oldstylenums on input line 902.
+)) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2026/01/26 v26.2 The multilingual framework for LuaLaTeX, pdfLaTeX and XeLaTeX
+\babel@savecnt=\count355
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input line 2078.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input line 2080.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input line 2082.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input line 2083.
+LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) on input line 2084.
+LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) on input line 2086.
+LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) on input line 2111.
+\U@D=\dimen260
+\l@unhyphenated=\language79
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read3
+\bbl@dirlevel=\count356
+Package babel Info: Configuration files are deprecated, as
+(babel)             they can break document portability.
+(babel)             Reported on input line 4206.
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/invalid\babel-bahasa.tex)
+
+Package babel Warning: Name 'bahasa' is deprecated.
+(babel)                Use 'indonesian' instead.
+(babel)                Reported on input line 4330.
+
+Package babel Info: Importing font and identification data for bahasa
+(babel)             from babel-id.ini. Reported on input line 4330.
+(C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/babel-indonesian\indonesian.ldf
+Language: indonesian 2025/06/01 v1.0n Bahasa Indonesia support from the babel system
+)) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/datetime2\datetime2.sty
+Package: datetime2 2021/03/21 v1.5.7 (NLCT) date and time formats
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/tracklang\tracklang.sty
+Package: tracklang 2025/03/11 v1.6.6 (NLCT) Track Languages
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/tracklang\tracklang.tex)
+Package tracklang Info: Tracking dialect `bahasa' (language `bahasai') on input line 264.
+Package tracklang Info: Tracking dialect `bahasa' (language `bahasai') on input line 264.
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/datetime2-bahasai\datetime2-bahasai.ldf
+File: datetime2-bahasai.ldf 2018/01/10 v1.01
+)) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+Package: biblatex 2025/07/10 v3.21 programmable bibliographies (PK/MW)
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count357
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+\c@tabx@nest=\count358
+\c@listtotal=\count359
+\c@listcount=\count360
+\c@liststart=\count361
+\c@liststop=\count362
+\c@citecount=\count363
+\c@citetotal=\count364
+\c@multicitecount=\count365
+\c@multicitetotal=\count366
+\c@instcount=\count367
+\c@maxnames=\count368
+\c@minnames=\count369
+\c@maxitems=\count370
+\c@minitems=\count371
+\c@citecounter=\count372
+\c@maxcitecounter=\count373
+\c@savedcitecounter=\count374
+\c@uniquelist=\count375
+\c@uniquename=\count376
+\c@refsection=\count377
+\c@refsegment=\count378
+\c@maxextratitle=\count379
+\c@maxextratitleyear=\count380
+\c@maxextraname=\count381
+\c@maxextradate=\count382
+\c@maxextraalpha=\count383
+\c@abbrvpenalty=\count384
+\c@highnamepenalty=\count385
+\c@lownamepenalty=\count386
+\c@maxparens=\count387
+\c@parenlevel=\count388
+\blx@tempcnta=\count389
+\blx@tempcntb=\count390
+\blx@tempcntc=\count391
+\c@blx@maxsection=\count392
+\blx@maxsegment@0=\count393
+\blx@notetype=\count394
+\blx@parenlevel@text=\count395
+\blx@parenlevel@foot=\count396
+\blx@sectionciteorder@0=\count397
+\blx@sectionciteorderinternal@0=\count398
+\blx@entrysetcounter=\count399
+\blx@biblioinstance=\count400
+\labelnumberwidth=\skip69
+\labelalphawidth=\skip70
+\biblabelsep=\skip71
+\bibitemsep=\skip72
+\bibnamesep=\skip73
+\bibinitsep=\skip74
+\bibparsep=\skip75
+\bibhang=\skip76
+\blx@bcfin=\read4
+\blx@bcfout=\write3
+\blx@langwohyphens=\language80
+\c@mincomprange=\count401
+\c@maxcomprange=\count402
+\c@mincompwidth=\count403
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+File: blx-dm.def 2025/07/10 v3.21 biblatex datamodel (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex citestyle data model...
+Package biblatex Info: ... file 'ieee.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count404
+\c@savedafterword=\count405
+\c@annotator=\count406
+\c@savedannotator=\count407
+\c@author=\count408
+\c@savedauthor=\count409
+\c@bookauthor=\count410
+\c@savedbookauthor=\count411
+\c@commentator=\count412
+\c@savedcommentator=\count413
+\c@editor=\count414
+\c@savededitor=\count415
+\c@editora=\count416
+\c@savededitora=\count417
+\c@editorb=\count418
+\c@savededitorb=\count419
+\c@editorc=\count420
+\c@savededitorc=\count421
+\c@foreword=\count422
+\c@savedforeword=\count423
+\c@holder=\count424
+\c@savedholder=\count425
+\c@introduction=\count426
+\c@savedintroduction=\count427
+\c@namea=\count428
+\c@savednamea=\count429
+\c@nameb=\count430
+\c@savednameb=\count431
+\c@namec=\count432
+\c@savednamec=\count433
+\c@translator=\count434
+\c@savedtranslator=\count435
+\c@shortauthor=\count436
+\c@savedshortauthor=\count437
+\c@shorteditor=\count438
+\c@savedshorteditor=\count439
+\c@labelname=\count440
+\c@savedlabelname=\count441
+\c@institution=\count442
+\c@savedinstitution=\count443
+\c@lista=\count444
+\c@savedlista=\count445
+\c@listb=\count446
+\c@savedlistb=\count447
+\c@listc=\count448
+\c@savedlistc=\count449
+\c@listd=\count450
+\c@savedlistd=\count451
+\c@liste=\count452
+\c@savedliste=\count453
+\c@listf=\count454
+\c@savedlistf=\count455
+\c@location=\count456
+\c@savedlocation=\count457
+\c@organization=\count458
+\c@savedorganization=\count459
+\c@origlocation=\count460
+\c@savedoriglocation=\count461
+\c@origpublisher=\count462
+\c@savedorigpublisher=\count463
+\c@publisher=\count464
+\c@savedpublisher=\count465
+\c@language=\count466
+\c@savedlanguage=\count467
+\c@origlanguage=\count468
+\c@savedoriglanguage=\count469
+\c@pageref=\count470
+\c@savedpageref=\count471
+\shorthandwidth=\skip77
+\shortjournalwidth=\skip78
+\shortserieswidth=\skip79
+\shorttitlewidth=\skip80
+\shortauthorwidth=\skip81
+\shorteditorwidth=\skip82
+\locallabelnumberwidth=\skip83
+\locallabelalphawidth=\skip84
+\localshorthandwidth=\skip85
+\localshortjournalwidth=\skip86
+\localshortserieswidth=\skip87
+\localshorttitlewidth=\skip88
+\localshortauthorwidth=\skip89
+\localshorteditorwidth=\skip90
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
+File: blx-compat.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load BibTeX backend compatibility...
+Package biblatex Info: ... file 'blx-bibtex.def' found.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-bibtex.def
+File: blx-bibtex.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
+
+
+Package biblatex Warning: Using fall-back bibtex backend:
+(biblatex)                functionality may be reduced/unavailable.
+
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
+File: biblatex.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
+\c@textcitecount=\count472
+\c@textcitetotal=\count473
+\c@textcitemaxnames=\count474
+\c@biburlbigbreakpenalty=\count475
+\c@biburlbreakpenalty=\count476
+\c@biburlnumpenalty=\count477
+\c@biburlucpenalty=\count478
+\c@biburllcpenalty=\count479
+\biburlbigskip=\muskip19
+\biburlnumskip=\muskip20
+\biburlucskip=\muskip21
+\biburllcskip=\muskip22
+\c@smartand=\count480
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric.bbx
+File: numeric.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
+File: standard.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count481
+\c@bbx:relatedtotal=\count482
+))
+Package biblatex Info: Trying to load citation style 'ieee'...
+Package biblatex Info: ... file 'ieee.cbx' found.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-ieee\ieee.cbx
+File: ieee.cbx 2025-08-01 v1.4f biblatex citation style
+Package biblatex Info: Trying to load citation style 'numeric-verb'...
+Package biblatex Info: ... file 'numeric-verb.cbx' found.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\numeric-verb.cbx
+File: numeric-verb.cbx 2025/07/10 v3.21 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+Package biblatex Info: Redefining '\textcites'.
+))
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+Package biblatex Info: ... and expl3
+(biblatex)             2026-01-19 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty
+Package: blx-case-expl3 2025/07/10 v3.21 expl3 case changing code for biblatex
+)) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
+Package: ragged2e 2023/06/22 v3.6 ragged2e Package
+\CenteringLeftskip=\skip91
+\RaggedLeftLeftskip=\skip92
+\RaggedRightLeftskip=\skip93
+\CenteringRightskip=\skip94
+\RaggedLeftRightskip=\skip95
+\RaggedRightRightskip=\skip96
+\CenteringParfillskip=\skip97
+\RaggedLeftParfillskip=\skip98
+\RaggedRightParfillskip=\skip99
+\JustifyingParfillskip=\skip100
+\CenteringParindent=\skip101
+\RaggedLeftParindent=\skip102
+\RaggedRightParindent=\skip103
+\JustifyingParindent=\skip104
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
+\multirow@colwidth=\skip105
+\multirow@cntb=\count483
+\multirow@dima=\skip106
+\bigstrutjot=\dimen261
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks39
+\pgfutil@tempdima=\dimen262
+\pgfutil@tempdimb=\dimen263
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box67
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
+))
+Package: pgf 2025-08-29 v3.1.11a (3.1.11a)
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks40
+\pgfkeys@temptoks=\toks41
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks42
+))
+\pgf@x=\dimen264
+\pgf@y=\dimen265
+\pgf@xa=\dimen266
+\pgf@ya=\dimen267
+\pgf@xb=\dimen268
+\pgf@yb=\dimen269
+\pgf@xc=\dimen270
+\pgf@yc=\dimen271
+\pgf@xd=\dimen272
+\pgf@yd=\dimen273
+\w@pgf@writea=\write4
+\r@pgf@reada=\read5
+\c@pgf@counta=\count484
+\c@pgf@countb=\count485
+\c@pgf@countc=\count486
+\c@pgf@countd=\count487
+\t@pgf@toka=\toks43
+\t@pgf@tokb=\toks44
+\t@pgf@tokc=\toks45
+\pgf@sys@id@count=\count488
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2025-08-29 v3.1.11a (3.1.11a)
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
+))) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfsyssoftpath@smallbuffer@items=\count489
+\pgfsyssoftpath@bigbuffer@items=\count490
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
+Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen274
+\pgfmath@count=\count491
+\pgfmath@box=\box68
+\pgfmath@toks=\toks46
+\pgfmath@stack@operand=\toks47
+\pgfmath@stack@operation=\toks48
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count492
+)) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@picminx=\dimen275
+\pgf@picmaxx=\dimen276
+\pgf@picminy=\dimen277
+\pgf@picmaxy=\dimen278
+\pgf@pathminx=\dimen279
+\pgf@pathmaxx=\dimen280
+\pgf@pathminy=\dimen281
+\pgf@pathmaxy=\dimen282
+\pgf@xx=\dimen283
+\pgf@xy=\dimen284
+\pgf@yx=\dimen285
+\pgf@yy=\dimen286
+\pgf@zx=\dimen287
+\pgf@zy=\dimen288
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@path@lastx=\dimen289
+\pgf@path@lasty=\dimen290
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@shorten@end@additional=\dimen291
+\pgf@shorten@start@additional=\dimen292
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfpic=\box69
+\pgf@hbox=\box70
+\pgf@layerbox@main=\box71
+\pgf@picture@serial@count=\count493
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgflinewidth=\dimen293
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@pt@x=\dimen294
+\pgf@pt@y=\dimen295
+\pgf@pt@temp=\dimen296
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfarrowsep=\dimen297
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@max=\dimen298
+\pgf@sys@shading@range@num=\count494
+\pgf@shadingcount=\count495
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfexternal@startupbox=\box72
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfnodeparttextbox=\box73
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@nodesepstart=\dimen299
+\pgf@nodesepend=\dimen300
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
+)) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
+\pgffor@iter=\dimen301
+\pgffor@skip=\dimen302
+\pgffor@stack=\toks49
+\pgffor@toks=\toks50
+)) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@plot@mark@count=\count496
+\pgfplotmarksize=\dimen303
+)
+\tikz@lastx=\dimen304
+\tikz@lasty=\dimen305
+\tikz@lastxsaved=\dimen306
+\tikz@lastysaved=\dimen307
+\tikz@lastmovetox=\dimen308
+\tikz@lastmovetoy=\dimen309
+\tikzleveldistance=\dimen310
+\tikzsiblingdistance=\dimen311
+\tikz@figbox=\box74
+\tikz@figbox@bg=\box75
+\tikz@tempbox=\box76
+\tikz@tempbox@bg=\box77
+\tikztreelevel=\count497
+\tikznumberofchildren=\count498
+\tikznumberofcurrentchild=\count499
+\tikz@fig@count=\count500
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfmatrixcurrentrow=\count501
+\pgfmatrixcurrentcolumn=\count502
+\pgf@matrix@numberofcolumns=\count503
+)
+\tikz@expandcount=\count504
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+\f@nch@headwidth=\skip107
+\f@nch@offset@elh=\skip108
+\f@nch@offset@erh=\skip109
+\f@nch@offset@olh=\skip110
+\f@nch@offset@orh=\skip111
+\f@nch@offset@elf=\skip112
+\f@nch@offset@erf=\skip113
+\f@nch@offset@olf=\skip114
+\f@nch@offset@orf=\skip115
+\f@nch@height=\skip116
+\f@nch@footalignment=\skip117
+\f@nch@widthL=\skip118
+\f@nch@widthC=\skip119
+\f@nch@widthR=\skip120
+\@temptokenb=\toks51
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/comment\comment.sty
+\CommentStream=\write5
+ Excluding comment 'comment') (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count505
+\lst@gtempboxa=\box78
+\lst@token=\toks52
+\lst@length=\count506
+\lst@currlwidth=\dimen312
+\lst@column=\count507
+\lst@pos=\count508
+\lst@lostspace=\dimen313
+\lst@width=\dimen314
+\lst@newlines=\count509
+\lst@lineno=\count510
+\lst@maxwidth=\dimen315
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty
+File: lstpatch.sty 2025/11/14 1.11b (Carsten Heinz)
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
+\c@lstnumber=\count511
+\lst@skipnumbers=\count512
+\lst@framebox=\box79
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2025/11/14 1.11b listings configuration
+))
+Package: listings 2025/11/14 1.11b (Carsten Heinz)
+
+==> First Aid for listings.sty no longer applied!
+    Expected:
+        2024/09/23 1.10c (Carsten Heinz)
+    but found:
+        2025/11/14 1.11b (Carsten Heinz)
+    so I'm assuming it got fixed.
+(C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/tocloft\tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip121
+\cftbeforetoctitleskip=\skip122
+\cftaftertoctitleskip=\skip123
+\cftbeforepartskip=\skip124
+\cftpartnumwidth=\skip125
+\cftpartindent=\skip126
+\cftbeforechapskip=\skip127
+\cftchapindent=\skip128
+\cftchapnumwidth=\skip129
+\cftbeforesecskip=\skip130
+\cftsecindent=\skip131
+\cftsecnumwidth=\skip132
+\cftbeforesubsecskip=\skip133
+\cftsubsecindent=\skip134
+\cftsubsecnumwidth=\skip135
+\cftbeforesubsubsecskip=\skip136
+\cftsubsubsecindent=\skip137
+\cftsubsubsecnumwidth=\skip138
+\cftbeforeparaskip=\skip139
+\cftparaindent=\skip140
+\cftparanumwidth=\skip141
+\cftbeforesubparaskip=\skip142
+\cftsubparaindent=\skip143
+\cftsubparanumwidth=\skip144
+\cftbeforeloftitleskip=\skip145
+\cftafterloftitleskip=\skip146
+\cftbeforefigskip=\skip147
+\cftfigindent=\skip148
+\cftfignumwidth=\skip149
+\c@lofdepth=\count513
+\c@lotdepth=\count514
+\cftbeforelottitleskip=\skip150
+\cftafterlottitleskip=\skip151
+\cftbeforetabskip=\skip152
+\cfttabindent=\skip153
+\cfttabnumwidth=\skip154
+
+
+Package tocloft Warning: \@starttoc has already been redefined; tocloft bailing out. on input line 1156.
+
+)
+\c@myequations=\count515
+\cftbeforemyequationsskip=\skip155
+\cftmyequationsindent=\skip156
+\cftmyequationsnumwidth=\skip157
+\c@equdepth=\count516
+\cftbeforeequtitleskip=\skip158
+\cftafterequtitleskip=\skip159
+\mylenf=\skip160
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2025/11/14 1.11b listings language file
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 350.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/cleveref\cleveref.sty
+Package: cleveref 2018/03/27 v0.21.4 Intelligent cross-referencing
+Package cleveref Info: `hyperref' support loaded on input line 2370.
+LaTeX Info: Redefining \cref on input line 2370.
+LaTeX Info: Redefining \Cref on input line 2370.
+LaTeX Info: Redefining \crefrange on input line 2370.
+LaTeX Info: Redefining \Crefrange on input line 2370.
+LaTeX Info: Redefining \cpageref on input line 2370.
+LaTeX Info: Redefining \Cpageref on input line 2370.
+LaTeX Info: Redefining \cpagerefrange on input line 2370.
+LaTeX Info: Redefining \Cpagerefrange on input line 2370.
+LaTeX Info: Redefining \labelcref on input line 2370.
+LaTeX Info: Redefining \labelcpageref on input line 2370.
+Package cleveref Info: `listings' support loaded on input line 3131.
+)
+==> First Aid for cleveref.sty applied!
+)
+LaTeX Font Info:    Trying to load font information for OT1+ntxtlf on input line 35.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ot1ntxtlf.fd
+File: ot1ntxtlf.fd 2021/05/24 v1.0 font definition file for OT1/ntx/tlf
+)
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 10.0pt on input line 35.
+
+
+Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
+(biblatex)                Loading 'csquotes' recommended.
+
+\@quotelevel=\count517
+\@quotereset=\count518
+
+LaTeX Warning: Unused global option(s):
+    [article].
+
+(thesis.aux)
+\openout1 = `thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 35.
+LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line 35.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/newtx\omlntxmi.fd
+File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
+)
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 35.
+LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 35.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxexa.fd
+File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
+)
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 35.
+LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line 35.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmsntxsy.fd
+File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
+)
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 35.
+LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input line 35.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmxntxexx.fd
+File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
+)
+LaTeX Font Info:    ... okay on input line 35.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* bindingoffset: 14.22636pt
+* modes: includefoot heightrounded 
+* h-part:(L,W,R)=(56.9055pt, 312.98035pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 540.60237pt, 56.9055pt)
+* \paperwidth=441.01772pt
+* \paperheight=654.41338pt
+* \textwidth=312.98035pt
+* \textheight=514.0pt
+* \oddsidemargin=-1.13812pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+(C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)
+Package caption Info: End \AtBeginDocument code.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count519
+\scratchdimen=\dimen316
+\scratchbox=\box80
+\nofMPsegments=\count520
+\nofMParguments=\count521
+\everyMPshowfont=\toks53
+\MPscratchCnt=\count522
+\MPscratchDim=\dimen317
+\MPnumerator=\count523
+\makeMPintoPDFobject=\count524
+\everyMPtoPDFconversion=\toks54
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Info: Command `\dddot' is already robust on input line 35.
+LaTeX Info: Command `\ddddot' is already robust on input line 35.
+Package hyperref Info: Link coloring ON on input line 35.
+ (thesis.out) (thesis.out)
+\@outlinefile=\write6
+\openout6 = `thesis.out'.
+
+LaTeX Info: Redefining \microtypecontext on input line 35.
+Package microtype Info: Applying patch `item' on input line 35.
+Package microtype Info: Applying patch `toc' on input line 35.
+Package microtype Info: Applying patch `eqnum' on input line 35.
+
+
+Package microtype Warning: Unable to apply patch `footnote' on input line 35.
+
+Package microtype Info: Applying patch `verbatim' on input line 35.
+LaTeX Info: Redefining \microtypesetup on input line 35.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: No font expansion.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+(C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-ptm.cfg
+File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
+)
+\c@mv@tabular=\count525
+\c@mv@boldtabular=\count526
+Package biblatex Info: Trying to load language 'bahasa' -> 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
+File: english.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Data encoding 'utf8' specified.
+(biblatex)             No need to reencode data.
+\openout3 = `thesis-blx.bib'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'thesis.bbl' found.
+ (thesis.bbl
+
+Package biblatex Warning: BibTeX reported the following issues
+(biblatex)                with 'EnviromentalSoundClassification':
+(biblatex)                - Invalid format of field 'month'.
+
+
+Package biblatex Warning: BibTeX reported the following issues
+(biblatex)                with 'Takahashi':
+(biblatex)                - Invalid format of field 'month'.
+
+)
+Package biblatex Info: Reference section=0 on input line 35.
+Package biblatex Info: Reference segment=0 on input line 35.
+\c@lstlisting=\count527
+ (chapters/cover-hard.tex
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+(Font)              scaled to size 11.0pt on input line 9.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 12.0pt on input line 17.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+(Font)              scaled to size 12.0pt on input line 17.
+<figure/Logo_ITERA.png, id=402, 735.34724pt x 960.58875pt>
+File: figure/Logo_ITERA.png Graphic file (type png)
+<use figure/Logo_ITERA.png>
+Package pdftex.def Info: figure/Logo_ITERA.png  used on input line 23.
+(pdftex.def)             Requested size: 85.35826pt x 111.49872pt.
+ [1
+
+
+{C:/Users/USER/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc} <./figure/Logo_ITERA.png>]) (chapters/approval.tex
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+(Font)              scaled to size 9.0pt on input line 12.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 9.0pt on input line 12.
+
+Underfull \hbox (badness 1231) in paragraph at lines 13--15
+[]\OT1/ntxtlf/m/n/9 Saya me-nya-tak-an bah-wa Tu-gas Akhir ber-ju-dul \Kla-si-fi-ka-si Su-a-ra Ling-kung-an
+ []
+
+LaTeX Font Info:    Trying to load font information for OT1+minntx on input line 19.
+(C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ot1minntx.fd
+File: ot1minntx.fd 2023/09/09 v1.1 font definition file for OT1/minntx
+)
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 9.0pt on input line 19.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `minntx' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 6.6pt on input line 19.
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 5.5pt on input line 19.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 9.0pt on input line 19.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 6.6pt on input line 19.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 5.5pt on input line 19.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 9.0pt on input line 19.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 6.6pt on input line 19.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 5.5pt on input line 19.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 9.0pt on input line 19.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 6.6pt on input line 19.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 5.5pt on input line 19.
+LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 19.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxmia.fd
+File: untxmia.fd 2024/04/09 Fontinst v1.933 font definitions for U/ntxmia.
+)
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 9.0pt on input line 19.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 6.6pt on input line 19.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 5.5pt on input line 19.
+LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 19.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsym.fd
+File: untxsym.fd 2023/08/16 Fontinst v1.933 font definitions for U/ntxsym.
+)
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 9.0pt on input line 19.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 6.6pt on input line 19.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 5.5pt on input line 19.
+LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 19.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsyc.fd
+File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
+)
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 9.0pt on input line 19.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 6.6pt on input line 19.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 5.5pt on input line 19.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 9.0pt on input line 19.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 6.6pt on input line 19.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 5.5pt on input line 19.
+
+Overfull \vbox (23.05829pt too high) detected at line 28
+ []
+
+
+Overfull \hbox (36.15744pt too wide) in paragraph at lines 28--29
+[]|[]| 
+ []
+
+
+Overfull \hbox (14.22635pt too wide) in paragraph at lines 45--59
+[][] 
+ []
+
+[2
+
+
+])
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* bindingoffset: 14.22636pt
+* modes: includefoot twoside heightrounded 
+* h-part:(L,W,R)=(56.9055pt, 312.98035pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 540.60237pt, 56.9055pt)
+* \paperwidth=441.01772pt
+* \paperheight=654.41338pt
+* \textwidth=312.98035pt
+* \textheight=514.0pt
+* \oddsidemargin=-1.13812pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ (chapters/statement.tex
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+(Font)              scaled to size 10.0pt on input line 11.
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 10.0pt on input line 16.
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 7.3pt on input line 16.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 10.0pt on input line 16.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 7.3pt on input line 16.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 10.0pt on input line 16.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 7.3pt on input line 16.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 10.0pt on input line 16.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 7.3pt on input line 16.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 10.0pt on input line 16.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 7.3pt on input line 16.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 10.0pt on input line 16.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 7.3pt on input line 16.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 10.0pt on input line 16.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 7.3pt on input line 16.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 10.0pt on input line 16.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 7.3pt on input line 16.
+ [3
+
+
+
+
+]) (chapters/publication.tex
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/it' will be
+(Font)              scaled to size 10.0pt on input line 28.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/it' will be
+(Font)              scaled to size 10.0pt on input line 34.
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+
+ []
+
+[4
+
+
+]) (chapters/forewords.tex [5
+
+
+] Excluding 'comment' comment.) (chapters/summary.tex
+Underfull \hbox (badness 1033) in paragraph at lines 16--17
+\OT1/ntxtlf/m/it/10 si-tu-a-sio-nal pe-nyan-dang gang-gu-an pen-de-ngar-an. Ada-pun sis-tem yang
+ []
+
+[6
+
+
+] [7] [8]) (chapters/abstract-id.tex [9
+
+
+]) (chapters/abstract-en.tex
+Underfull \hbox (badness 2111) in paragraph at lines 13--13
+[]\OT1/minntx/m/n/10 Environmental so-und clas-si-fi-ca-tion is es-sen-ti-al for sa-fe-ty aler-ts,
+ []
+
+[10
+
+
+]) (thesis.toc
+Overfull \hbox (0.59987pt too wide) detected at line 15
+\OT1/ntxtlf/b/n/10 BAB I 
+ []
+
+[11
+
+
+]
+Overfull \hbox (4.48987pt too wide) detected at line 27
+\OT1/ntxtlf/b/n/10 BAB II 
+ []
+
+
+Overfull \hbox (8.37987pt too wide) detected at line 44
+\OT1/ntxtlf/b/n/10 BAB III 
+ []
+
+[12]
+Overfull \hbox (7.81987pt too wide) detected at line 79
+\OT1/ntxtlf/b/n/10 BAB IV 
+ []
+
+[13]
+Overfull \hbox (3.92987pt too wide) detected at line 96
+\OT1/ntxtlf/b/n/10 BAB V 
+ []
+
+)
+\tf@toc=\write7
+\openout7 = `thesis.toc'.
+
+ [14] (thesis.lot)
+\tf@lot=\write8
+\openout8 = `thesis.lot'.
+
+ [15
+
+] (thesis.lof)
+\tf@lof=\write9
+\openout9 = `thesis.lof'.
+
+ [16
+
+] (thesis.equ)
+\tf@equ=\write10
+\openout10 = `thesis.equ'.
+
+ [17
+
+] (thesis.lol)
+\tf@lol=\write11
+\openout11 = `thesis.lol'.
+
+ [18
+
+] (chapters/chapter-1.tex
+BAB I.
+
+Underfull \hbox (badness 1342) in paragraph at lines 5--5
+\OT1/minntx/m/n/10 sig-ni-fik-an da-lam pem-ro-ses-an si-nyal di-gi-tal, ter-ma-suk kla-si-fi-ka-si su-a-ra
+ []
+
+
+Underfull \hbox (badness 2050) in paragraph at lines 5--5
+\OT1/minntx/m/n/10 ling-kung-an (\OT1/ntxtlf/m/it/10 En-vi-ro-nmen-tal So-und Clas-si-fi-ca-tion\OT1/minntx/m/n/10 ). Su-a-ra ling-kung-an
+ []
+
+
+Underfull \hbox (badness 2119) in paragraph at lines 9--9
+\OT1/minntx/m/n/10 sum-ber da-ya kom-pu-ta-si dan me-mo-ri be-sar [[][]8[][]]. Pe-ne-rap-an mo-del
+ []
+
+[1
+
+
+]
+Underfull \hbox (badness 2707) in paragraph at lines 11--11
+[]\OT1/minntx/m/n/10 Menanggapi ke-bu-tuh-an ter-se-but, pe-ne-li-ti-an ini meng-a-do-psi dan
+ []
+
+
+Underfull \hbox (badness 1748) in paragraph at lines 16--18
+[]\OT1/minntx/m/n/10 Berdasarkan la-tar be-la-kang yang te-lah di-u-ra-ik-an di atas, ma-ka
+ []
+
+[2]
+Underfull \hbox (badness 1199) in paragraph at lines 33--34
+[]\OT1/minntx/m/n/10 Data yang di-gu-nak-an me-ru-pak-an \OT1/ntxtlf/m/it/10 da-ta-set \OT1/minntx/m/n/10 su-a-ra ling-kung-an yang
+ []
+
+[3] [4]) (chapters/chapter-2.tex [5]
+BAB II.
+
+Underfull \hbox (badness 1715) in paragraph at lines 5--5
+\OT1/minntx/m/n/10 eks-trak-si \OT1/ntxtlf/m/it/10 Mel-Frequency Ce-ps-tral Co-e-ffi-ci-en-ts \OT1/minntx/m/n/10 (\OT1/ntxtlf/m/it/10 MFCC\OT1/minntx/m/n/10 ) dan kla-si-fi-ka-si
+ []
+
+[6
+
+] [7]
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 8.0pt on input line 19.
+
+Overfull \hbox (15.45001pt too wide) in alignment at lines 18--24
+ [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (15.45001pt too wide) in alignment at lines 24--28
+ [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (15.45001pt too wide) in alignment at lines 28--30
+ [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (15.45001pt too wide) in alignment at lines 30--32
+ [] [] [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+[]|\OT1/ntxtlf/m/it/10 Environmental
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\OT1/ntxtlf/m/it/10 So-und
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\OT1/ntxtlf/m/it/10 Clas-si-fi-ca-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\OT1/ntxtlf/m/it/10 wi-th
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\OT1/ntxtlf/m/it/10 Con-vo-lu-tio-nal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\OT1/ntxtlf/m/it/10 Ne-u-ral
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+[]|\OT1/minntx/m/n/10 Tantangan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\OT1/minntx/m/n/10 kla-si-fi-ka-si
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\OT1/minntx/m/n/10 su-a-ra
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\OT1/minntx/m/n/10 ling-kung-an
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\OT1/minntx/m/n/10 pa-da \OT1/ntxtlf/m/it/10 da-ta-set
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\OT1/ntxtlf/m/it/10 ESC \OT1/minntx/m/n/10 (ke-las
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\OT1/minntx/m/n/10 ber-a-gam dan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\OT1/minntx/m/n/10 si-nyal sa-ling
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\OT1/minntx/m/n/10 tum-pang
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+[]|\OT1/minntx/m/n/10 Masukan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\OT1/ntxtlf/m/it/10 log-mel
+ []
+
+
+Overfull \hbox (2.90486pt too wide) in paragraph at lines 33--33
+\OT1/ntxtlf/m/it/10 spe-ctro-gram
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\OT1/minntx/m/n/10 (de-ngan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\OT1/minntx/m/n/10 kla-si-fi-ka-si
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\OT1/minntx/m/n/10 ber-ba-sis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+[]|\OT1/minntx/m/n/10 Implementasi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+\OT1/minntx/m/n/10 Eks-trak-si
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+\OT1/minntx/m/n/10 Fi-tur un-tuk
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+\OT1/minntx/m/n/10 Kla-si-fi-ka-si
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+\OT1/minntx/m/n/10 Su-a-ra Urb-an
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+\OT1/minntx/m/n/10 Meng-gu-nak-an
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+[]|\OT1/minntx/m/n/10 Variasi dan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+\OT1/minntx/m/n/10 tum-pang
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+\OT1/minntx/m/n/10 tin-dih su-a-ra
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+\OT1/minntx/m/n/10 ling-kung-an
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+[]|\OT1/minntx/m/n/10 Ekstraksi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+\OT1/minntx/m/n/10 kla-si-fi-ka-si
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+[]|\OT1/minntx/m/n/10 Klasifikasi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\OT1/minntx/m/n/10 Ken-da-ra-an
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\OT1/minntx/m/n/10 Im-ple-men-ta-si
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+[]|\OT1/minntx/m/n/10 Risiko
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\OT1/minntx/m/n/10 ke-ce-la-ka-an
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\OT1/minntx/m/n/10 ting-gi ba-gi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\OT1/minntx/m/n/10 pe-ngen-da-ra
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\OT1/minntx/m/n/10 tu-na-ru-ngu
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\OT1/minntx/m/n/10 ka-re-na
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\OT1/minntx/m/n/10 ke-su-lit-an
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\OT1/minntx/m/n/10 meng-e-na-li
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\OT1/minntx/m/n/10 su-a-ra
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+[]|\OT1/ntxtlf/m/it/10 TinyML
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\OT1/minntx/m/n/10 ber-ba-sis
+ []
+
+
+Underfull \hbox (badness 8000) in paragraph at lines 37--37
+\OT1/ntxtlf/m/it/10 CNN \OT1/minntx/m/n/10 1-D
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\OT1/minntx/m/n/10 dan fi-tur
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+[]|\OT1/ntxtlf/m/it/10 Urban So-und
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+\OT1/ntxtlf/m/it/10 Clas-si-fi-ca-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+\OT1/ntxtlf/m/it/10 Using
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+\OT1/ntxtlf/m/it/10 Con-vo-lu-tio-nal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+\OT1/ntxtlf/m/it/10 Ne-u-ral
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+[]|\OT1/minntx/m/n/10 Kesulitan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+\OT1/minntx/m/n/10 mem-be-dak-an
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+\OT1/minntx/m/n/10 yang se-ring
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+[]|\OT1/minntx/m/n/10 Ekstraksi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+\OT1/minntx/m/n/10 kla-si-fi-ka-si
+ []
+
+
+Underfull \hbox (badness 3354) in paragraph at lines 41--41
+[]|\OT1/ntxtlf/m/it/10 A New De-ep
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/ntxtlf/m/it/10 En-vi-ro-nmen-tal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/ntxtlf/m/it/10 So-und
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+[]|\OT1/minntx/m/n/10 Keterbatasan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/ntxtlf/m/it/10 CNN \OT1/minntx/m/n/10 pra-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/minntx/m/n/10 latih un-tuk
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/minntx/m/n/10 me-nang-kap
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/minntx/m/n/10 ka-rak-te-ris-tik
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/minntx/m/n/10 su-a-ra
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+[]|\OT1/minntx/m/n/10 Arsitektur
+ []
+
+
+Underfull \hbox (badness 6559) in paragraph at lines 41--41
+\OT1/ntxtlf/m/it/10 CNN end-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/ntxtlf/m/it/10 to-end
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/minntx/m/n/10 di-pa-duk-an
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/ntxtlf/m/it/10 KNN
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--43
+[]|\OT1/ntxtlf/m/it/10 Audio
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--43
+\OT1/ntxtlf/m/it/10 Clas-si-fi-ca-tion:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--43
+\OT1/ntxtlf/m/it/10 En-vi-ro-nmen-tal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--43
+\OT1/ntxtlf/m/it/10 So-un-ds
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--43
+[]|\OT1/minntx/m/n/10 Klasifikasi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--43
+\OT1/minntx/m/n/10 su-a-ra
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--43
+\OT1/minntx/m/n/10 ling-kung-an
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--43
+\OT1/minntx/m/n/10 te-tap
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--43
+\OT1/minntx/m/n/10 me-nan-tang
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--43
+\OT1/minntx/m/n/10 ka-re-na
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--43
+\OT1/minntx/m/n/10 kom-plek-si-tas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--43
+[]|\OT1/ntxtlf/m/it/10 MFCC\OT1/minntx/m/n/10 ,
+ []
+
+
+Underfull \hbox (badness 5985) in paragraph at lines 43--43
+\OT1/ntxtlf/m/it/10 CNN\OT1/minntx/m/n/10 , dan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--43
+\OT1/minntx/m/n/10 eks-plo-ra-si
+ []
+
+
+Overfull \hbox (15.45001pt too wide) in alignment at lines 32--45
+ [] [] [] [] [] 
+ []
+
+[8]
+chapters/chapter-2.tex:45: ignored: Infinite glue shrinkage found in box being split [9]
+chapters/chapter-2.tex:45: ignored: Infinite glue shrinkage found in box being split [10]
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+[]\OT1/minntx/m/n/10 Dengan de-mi-ki-an, wa-la-u-pun \OT1/ntxtlf/m/it/10 CNN \OT1/minntx/m/n/10 efek-tif un-tuk kla-si-fi-ka-si
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\OT1/minntx/m/n/10 su-a-ra ling-kung-an, ma-sih ter-da-pat ke-ter-ba-tas-an se-per-ti per-be-da-an
+ []
+
+
+Underfull \hbox (badness 1874) in paragraph at lines 49--49
+\OT1/minntx/m/n/10 ku-a-li-tas/karakteristik \OT1/ntxtlf/m/it/10 da-ta-set\OT1/minntx/m/n/10 , aku-ra-si yang be-lum kon-sis-ten ting-gi di
+ []
+
+[11]
+
+pdfTeX warning: pdflatex (file ./figure/mel_spectogram.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<figure/mel_spectogram.pdf, id=798, 570.4512pt x 402.32309pt>
+File: figure/mel_spectogram.pdf Graphic file (type pdf)
+<use figure/mel_spectogram.pdf>
+Package pdftex.def Info: figure/mel_spectogram.pdf  used on input line 61.
+(pdftex.def)             Requested size: 312.98314pt x 220.73814pt.
+[12]
+
+pdfTeX warning: pdflatex (file ./figure/arsitekturCNN.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<figure/arsitekturCNN.pdf, id=808, 385.44904pt x 163.52391pt>
+File: figure/arsitekturCNN.pdf Graphic file (type pdf)
+<use figure/arsitekturCNN.pdf>
+Package pdftex.def Info: figure/arsitekturCNN.pdf  used on input line 70.
+(pdftex.def)             Requested size: 219.09067pt x 92.94759pt.
+[13 <./figure/mel_spectogram.pdf>]
+
+pdfTeX warning: pdflatex (file ./figure/arsitektur_piczak_asli.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<figure/arsitektur_piczak_asli.pdf, id=828, 845.1575pt x 597.23125pt>
+File: figure/arsitektur_piczak_asli.pdf Graphic file (type pdf)
+<use figure/arsitektur_piczak_asli.pdf>
+Package pdftex.def Info: figure/arsitektur_piczak_asli.pdf  used on input line 79.
+(pdftex.def)             Requested size: 219.07806pt x 154.81169pt.
+[14 <./figure/arsitekturCNN.pdf> <./figure/arsitektur_piczak_asli.pdf>]
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 7.3pt on input line 94.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 5.5pt on input line 94.
+LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input line 107.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ts1ntxtlf.fd
+File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
+)
+LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
+(Font)              scaled to size 10.0pt on input line 107.
+ [15]
+Underfull \hbox (badness 3746) in paragraph at lines 110--110
+[]\OT1/ntxtlf/m/it/10 Max-pooling \OT1/minntx/m/n/10 ada-lah tek-nik \OT1/ntxtlf/m/it/10 down-sampling \OT1/minntx/m/n/10 pa-da ja-ring-an sa-raf
+ []
+
+
+Underfull \hbox (badness 1629) in paragraph at lines 110--110
+\OT1/minntx/m/n/10 me-mi-lih ni-lai mak-si-mum da-lam wi-la-yah ter-ten-tu (mi-sal-nya 2x2 atau
+ []
+
+[16{C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc}] [17]
+Overfull \hbox (9.84962pt too wide) in alignment at lines 159--167
+ [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (9.84962pt too wide) in alignment at lines 167--173
+ [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (9.84962pt too wide) in alignment at lines 173--175
+ [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (9.84962pt too wide) in alignment at lines 175--177
+ [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (9.84962pt too wide) in alignment at lines 177--185
+ [] [] [] [] [] [] [] 
+ []
+
+[18]) (chapters/chapter-3.tex [19]
+BAB III.
+
+
+pdfTeX warning: pdflatex (file ./figure/alur_penelitian.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<figure/alur_penelitian.pdf, id=884, 168.99135pt x 572.89032pt>
+File: figure/alur_penelitian.pdf Graphic file (type pdf)
+<use figure/alur_penelitian.pdf>
+Package pdftex.def Info: figure/alur_penelitian.pdf  used on input line 9.
+(pdftex.def)             Requested size: 106.13504pt x 359.80388pt.
+[20
+
+ <./figure/alur_penelitian.pdf>]
+Underfull \hbox (badness 2057) in paragraph at lines 21--21
+[]\OT1/minntx/m/n/10 Dilakukan ka-ji-an pus-ta-ka ter-ha-dap ar-ti-kel il-mi-ah, jur-nal, bu-ku,
+ []
+
+[21] [22] [23]
+
+pdfTeX warning: pdflatex (file ./figure/metode_pengembangan_model.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<figure/metode_pengembangan_model.pdf, id=929, 114.61821pt x 358.3789pt>
+File: figure/metode_pengembangan_model.pdf Graphic file (type pdf)
+<use figure/metode_pengembangan_model.pdf>
+Package pdftex.def Info: figure/metode_pengembangan_model.pdf  used on input line 57.
+(pdftex.def)             Requested size: 115.07263pt x 359.7998pt.
+[24 <./figure/metode_pengembangan_model.pdf>]
+Underfull \hbox (badness 4072) in paragraph at lines 84--84
+\OT1/minntx/m/n/10 sam-pel di-a-cak (\OT1/ntxtlf/m/it/10 shu-ffled\OT1/minntx/m/n/10 ) de-ngan \OT1/ntxtlf/m/it/10 se-ed \OT1/minntx/m/n/10 te-tap (42) un-tuk men-ja-min
+ []
+
+
+
+pdfTeX warning: pdflatex (file ./figure/alur_preprocessing.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<figure/alur_preprocessing.pdf, id=944, 551.1792pt x 217.77359pt>
+File: figure/alur_preprocessing.pdf Graphic file (type pdf)
+<use figure/alur_preprocessing.pdf>
+Package pdftex.def Info: figure/alur_preprocessing.pdf  used on input line 89.
+(pdftex.def)             Requested size: 312.98955pt x 123.66368pt.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/it' will be
+(Font)              scaled to size 8.0pt on input line 90.
+[25]
+
+pdfTeX warning: pdflatex (file ./figure/sebelum_augmentasi.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<figure/sebelum_augmentasi.pdf, id=951, 845.1575pt x 597.23125pt>
+File: figure/sebelum_augmentasi.pdf Graphic file (type pdf)
+<use figure/sebelum_augmentasi.pdf>
+Package pdftex.def Info: figure/sebelum_augmentasi.pdf  used on input line 104.
+(pdftex.def)             Requested size: 219.07806pt x 154.81169pt.
+[26 <./figure/alur_preprocessing.pdf>]
+
+pdfTeX warning: pdflatex (file ./figure/sesudah_time_shift.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<figure/sesudah_time_shift.pdf, id=966, 845.1575pt x 597.23125pt>
+File: figure/sesudah_time_shift.pdf Graphic file (type pdf)
+<use figure/sesudah_time_shift.pdf>
+Package pdftex.def Info: figure/sesudah_time_shift.pdf  used on input line 111.
+(pdftex.def)             Requested size: 219.07806pt x 154.81169pt.
+File: figure/sebelum_augmentasi.pdf Graphic file (type pdf)
+<use figure/sebelum_augmentasi.pdf>
+Package pdftex.def Info: figure/sebelum_augmentasi.pdf  used on input line 120.
+(pdftex.def)             Requested size: 219.07806pt x 154.81169pt.
+[27 <./figure/sebelum_augmentasi.pdf> <./figure/sesudah_time_shift.pdf>]
+
+pdfTeX warning: pdflatex (file ./figure/sesudah_add_noise.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<figure/sesudah_add_noise.pdf, id=977, 845.1575pt x 597.23125pt>
+File: figure/sesudah_add_noise.pdf Graphic file (type pdf)
+<use figure/sesudah_add_noise.pdf>
+Package pdftex.def Info: figure/sesudah_add_noise.pdf  used on input line 127.
+(pdftex.def)             Requested size: 219.07806pt x 154.81169pt.
+
+
+pdfTeX warning: pdflatex (file ./figure/spectrogram_sebelum_augmentasi.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<figure/spectrogram_sebelum_augmentasi.pdf, id=979, 845.1575pt x 597.23125pt>
+File: figure/spectrogram_sebelum_augmentasi.pdf Graphic file (type pdf)
+<use figure/spectrogram_sebelum_augmentasi.pdf>
+Package pdftex.def Info: figure/spectrogram_sebelum_augmentasi.pdf  used on input line 135.
+(pdftex.def)             Requested size: 219.07806pt x 154.81169pt.
+[28 <./figure/sesudah_add_noise.pdf>]
+
+pdfTeX warning: pdflatex (file ./figure/spectogram_sesudah_augmentasi.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<figure/spectogram_sesudah_augmentasi.pdf, id=987, 845.1575pt x 597.23125pt>
+File: figure/spectogram_sesudah_augmentasi.pdf Graphic file (type pdf)
+<use figure/spectogram_sesudah_augmentasi.pdf>
+Package pdftex.def Info: figure/spectogram_sesudah_augmentasi.pdf  used on input line 142.
+(pdftex.def)             Requested size: 219.07806pt x 154.81169pt.
+[29 <./figure/spectrogram_sebelum_augmentasi.pdf> <./figure/spectogram_sesudah_augmentasi.pdf>]
+Underfull \hbox (badness 2653) in paragraph at lines 153--154
+\OT1/minntx/m/n/10 di-no-nak-tifk-an, se-hing-ga mo-del di-la-tih ha-nya de-ngan da-ta as-li.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
+\OT1/minntx/m/n/10 Formulasi pe-lu-ang un-tuk se-ti-ap tek-nik da-pat di-tu-lis se-ba-gai
+ []
+
+[30]
+Underfull \hbox (badness 1077) in paragraph at lines 173--173
+[]\OT1/minntx/m/n/10 Fitur \OT1/ntxtlf/m/it/10 del-ta \OT1/minntx/m/n/10 ter-ha-dap wak-tu di-hi-tung da-ri spek-tro-gram \OT1/ntxtlf/m/it/10 Mel \OT1/minntx/m/n/10 un-tuk
+ []
+
+
+Underfull \hbox (badness 1533) in paragraph at lines 176--176
+[]\OT1/minntx/m/n/10 Metode yang di-gu-nak-an ada-lah \OT1/ntxtlf/m/it/10 Piczak-CNN\OT1/minntx/m/n/10 , ter-di-ri atas la-pis-an
+ []
+
+
+
+pdfTeX warning: pdflatex (file ./figure/arsitektur_piczak.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<figure/arsitektur_piczak.pdf, id=1006, 597.23125pt x 845.1575pt>
+File: figure/arsitektur_piczak.pdf Graphic file (type pdf)
+<use figure/arsitektur_piczak.pdf>
+Package pdftex.def Info: figure/arsitektur_piczak.pdf  used on input line 179.
+(pdftex.def)             Requested size: 254.25278pt x 359.79974pt.
+[31] [32 <./figure/arsitektur_piczak.pdf>] [33]
+Underfull \hbox (badness 1264) in paragraph at lines 203--203
+\OT1/ntxtlf/m/it/10 hyper-pa-ra-me-ter \OT1/minntx/m/n/10 un-tuk me-ning-katk-an per-for-ma kla-si-fi-ka-si. Op-ti-mi-sa-si
+ []
+
+
+Underfull \hbox (badness 7685) in paragraph at lines 221--221
+[]|\OT1/minntx/m/n/10 Nilai mo-de-rat un-tuk men-ja-ga
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--221
+\OT1/minntx/m/n/10 ke-se-im-bang-an ke-ce-pat-an
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--221
+\OT1/minntx/m/n/10 kon-ver-gen-si dan kes-ta-bil-an
+ []
+
+
+Underfull \hbox (badness 1648) in paragraph at lines 221--221
+\OT1/ntxtlf/m/it/10 con-ne-cted \OT1/minntx/m/n/10 ber-u-kur-an be-sar agar
+ []
+
+
+Underfull \hbox (badness 2197) in paragraph at lines 221--221
+\OT1/minntx/m/n/10 ke-ja-di-an su-a-ra tan-pa meng-u-bah
+ []
+
+
+Underfull \hbox (badness 4416) in paragraph at lines 221--221
+[]|\OT1/minntx/m/n/10 Meningkatkan ke-ta-han-an mo-del
+ []
+
+
+Underfull \hbox (badness 3128) in paragraph at lines 221--221
+[]|\OT1/minntx/m/n/10 Mendorong mo-del be-la-jar po-la
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--221
+\OT1/minntx/m/n/10 glo-bal de-ngan me-nu-tu-pi area
+ []
+
+[34]
+Underfull \hbox (badness 2556) in paragraph at lines 230--231
+[]\OT1/minntx/m/n/10 Tiga tek-nik au-gmen-ta-si (\OT1/ntxtlf/m/it/10 ti-me shif-ting\OT1/minntx/m/n/10 , \OT1/ntxtlf/m/it/10 bac-kgro-und no-i-se\OT1/minntx/m/n/10 , dan
+ []
+
+[35]
+Underfull \hbox (badness 10000) in paragraph at lines 251--251
+[]|\OT1/minntx/m/n/10 Perbandingan al-go-ri-tma
+ []
+
+
+Underfull \hbox (badness 6252) in paragraph at lines 251--251
+[]|\OT1/minntx/m/n/10 Pengaruh ting-kat per-u-bah-an
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--251
+[]|\OT1/minntx/m/n/10 Evaluasi kon-tri-bu-si tek-nik
+ []
+
+
+Underfull \hbox (badness 1354) in paragraph at lines 251--251
+[]|\OT1/minntx/m/n/10 Pengaruh jum-lah sam-pel per
+ []
+
+[36]
+Overfull \hbox (35.76363pt too wide) detected at line 291
+[] \U/ntxmia/m/it/10 = [] = [] = [] = \OT1/minntx/m/n/10 0\OML/ntxmi/m/it/10 ; \OT1/minntx/m/n/10 94[]94%[][]
+ []
+
+
+Overfull \hbox (24.55087pt too wide) detected at line 309
+\OML/ntxmi/m/it/10 F\OT1/minntx/m/n/10 1[] \U/ntxmia/m/it/10 = \OT1/minntx/m/n/10 2 \LMS/ntxsy/m/n/10 ^^B [] \U/ntxmia/m/it/10 = \OT1/minntx/m/n/10 2 \LMS/ntxsy/m/n/10 ^^B [] ^^Y \OT1/minntx/m/n/10 0\OML/ntxmi/m/it/10 ; \OT1/minntx/m/n/10 857[]85\OML/ntxmi/m/it/10 ; \OT1/minntx/m/n/10 7%[][]
+ []
+
+
+Underfull \hbox (badness 1783) in paragraph at lines 313--313
+\OT1/minntx/m/n/10 kla-si-fi-ka-si su-a-ra ling-kung-an ber-ba-sis \OT1/ntxtlf/m/it/10 Piczak-CNN\OT1/minntx/m/n/10 . Pro-se-dur pe-ngu-ji-an
+ []
+
+[37]
+Underfull \hbox (badness 1112) in paragraph at lines 323--323
+\OT1/minntx/m/n/10 tek-nik \OT1/ntxtlf/m/it/10 au-gmen-ta-tion \OT1/minntx/m/n/10 (\OT1/ntxtlf/m/it/10 ti-me shif-ting\OT1/minntx/m/n/10 , pe-nam-bah-an de-rau \OT1/ntxtlf/m/it/10 Ga-us-si-an\OT1/minntx/m/n/10 ,
+ []
+
+
+Underfull \hbox (badness 1077) in paragraph at lines 323--323
+\OT1/minntx/m/n/10 meng-gu-nak-an 5-\OT1/ntxtlf/m/it/10 fold cross-validation \OT1/minntx/m/n/10 un-tuk mem-pe-ro-leh \OT1/ntxtlf/m/it/10 accu-ra-cy
+ []
+
+[38]) (chapters/chapter-4.tex [39]
+BAB IV.
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--8
+[]\OT1/minntx/m/n/10 Dataset yang di-gu-nak-an pa-da pe-ne-li-ti-an ini ber-a-sal da-ri
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--8
+\OT1/minntx/m/n/10 re-po-si-to-ri sum-ber ter-bu-ka, se-per-ti Fre-e-so-und.org dan ESC-50
+ []
+
+
+Underfull \hbox (badness 2020) in paragraph at lines 8--8
+\OT1/minntx/m/n/10 (https://github.com/karolpiczak/ESC-50.git), ser-ta da-ri per-e-kam-an au-dio
+ []
+
+LaTeX Font Info:    Trying to load font information for OT1+ntxtt on input line 11.
+(C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ot1ntxtt.fd
+File: ot1ntxtt.fd 2012/04/20 v3.1
+)
+LaTeX Font Info:    Font shape `OT1/ntxtt/m/n' will be
+(Font)              scaled to size 10.0pt on input line 11.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `ntxtt' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ [40
+
+]
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 12.
+LaTeX Font Info:    Font shape `OT1/ntxtt/m/n' will be
+(Font)              scaled to size 7.0pt on input line 12.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 7.0pt on input line 13.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 5.0pt on input line 13.
+ [41]
+
+pdfTeX warning: pdflatex (file ./figure/spektrogram1.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<figure/spektrogram1.pdf, id=1123, 962.5571pt x 673.0194pt>
+File: figure/spektrogram1.pdf Graphic file (type pdf)
+<use figure/spektrogram1.pdf>
+Package pdftex.def Info: figure/spektrogram1.pdf  used on input line 67.
+(pdftex.def)             Requested size: 250.38522pt x 175.06306pt.
+
+
+pdfTeX warning: pdflatex (file ./figure/spektrogram2.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<figure/spektrogram2.pdf, id=1124, 896.55551pt x 673.0194pt>
+File: figure/spektrogram2.pdf Graphic file (type pdf)
+<use figure/spektrogram2.pdf>
+Package pdftex.def Info: figure/spektrogram2.pdf  used on input line 74.
+(pdftex.def)             Requested size: 250.38522pt x 187.9512pt.
+
+
+pdfTeX warning: pdflatex (file ./figure/spektrogram3.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<figure/spektrogram3.pdf, id=1125, 991.94386pt x 710.59576pt>
+File: figure/spektrogram3.pdf Graphic file (type pdf)
+<use figure/spektrogram3.pdf>
+Package pdftex.def Info: figure/spektrogram3.pdf  used on input line 81.
+(pdftex.def)             Requested size: 312.98035pt x 224.2075pt.
+[42 <./figure/spektrogram1.pdf> <./figure/spektrogram2.pdf>]
+
+pdfTeX warning: pdflatex (file ./figure/spektrogram4.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<figure/spektrogram4.pdf, id=1134, 991.94386pt x 710.59576pt>
+File: figure/spektrogram4.pdf Graphic file (type pdf)
+<use figure/spektrogram4.pdf>
+Package pdftex.def Info: figure/spektrogram4.pdf  used on input line 88.
+(pdftex.def)             Requested size: 312.98035pt x 224.2075pt.
+
+
+pdfTeX warning: pdflatex (file ./figure/spektrogram5.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<figure/spektrogram5.pdf, id=1135, 992.4257pt x 710.59576pt>
+File: figure/spektrogram5.pdf Graphic file (type pdf)
+<use figure/spektrogram5.pdf>
+Package pdftex.def Info: figure/spektrogram5.pdf  used on input line 95.
+(pdftex.def)             Requested size: 312.98035pt x 224.09908pt.
+[43 <./figure/spektrogram3.pdf> <./figure/spektrogram4.pdf>]
+
+pdfTeX warning: pdflatex (file ./figure/spektrogram6.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<figure/spektrogram6.pdf, id=1145, 992.4257pt x 710.59576pt>
+File: figure/spektrogram6.pdf Graphic file (type pdf)
+<use figure/spektrogram6.pdf>
+Package pdftex.def Info: figure/spektrogram6.pdf  used on input line 102.
+(pdftex.def)             Requested size: 312.98035pt x 224.09908pt.
+
+
+pdfTeX warning: pdflatex (file ./figure/spektrogram7.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<figure/spektrogram7.pdf, id=1146, 992.4257pt x 710.59576pt>
+File: figure/spektrogram7.pdf Graphic file (type pdf)
+<use figure/spektrogram7.pdf>
+Package pdftex.def Info: figure/spektrogram7.pdf  used on input line 109.
+(pdftex.def)             Requested size: 312.98035pt x 224.09908pt.
+[44 <./figure/spektrogram5.pdf> <./figure/spektrogram6.pdf>] [45 <./figure/spektrogram7.pdf>]
+Underfull \hbox (badness 1253) in paragraph at lines 160--160
+\OT1/minntx/m/n/10 per-ge-ser-an wak-tu) di-la-kuk-an pa-da ge-lom-bang su-a-ra se-be-lum eks-trak-si
+ []
+
+[46] [47] [48] [49] [50] [51]
+Underfull \hbox (badness 2173) in paragraph at lines 415--416
+[]\OT1/minntx/m/n/10 Setelah pro-ses pe-la-tih-an pa-da se-ti-ap \OT1/ntxtlf/m/it/10 fo-ld \OT1/minntx/m/n/10 se-le-sai, mo-del di-u-ji
+ []
+
+
+Underfull \hbox (badness 2134) in paragraph at lines 416--417
+[]\OT1/minntx/m/n/10 Hasil eva-lu-a-si da-ri se-lu-ruh \OT1/ntxtlf/m/it/10 fo-ld \OT1/minntx/m/n/10 ke-mu-di-an dirata-ratakan un-tuk
+ []
+
+
+Underfull \hbox (badness 4181) in paragraph at lines 416--417
+\OT1/minntx/m/n/10 mem-pe-ro-leh gam-bar-an umum meng-e-nai ki-ner-ja mo-del se-ca-ra
+ []
+
+
+Underfull \hbox (badness 1377) in paragraph at lines 422--422
+\OT1/minntx/m/n/10 me-man-fa-atk-an ske-ma \OT1/ntxtlf/m/it/10 5-fold cross-validation\OT1/minntx/m/n/10 . Pa-da se-ti-ap kom-bi-na-si
+ []
+
+[52]
+chapters/chapter-4.tex:456: ignored: Infinite glue shrinkage found in box being split [53]
+Overfull \hbox (4.75964pt too wide) in alignment at lines 467--473
+ [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (4.75964pt too wide) in alignment at lines 473--477
+ [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (4.75964pt too wide) in alignment at lines 477--479
+ [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (4.75964pt too wide) in alignment at lines 479--481
+ [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (4.75964pt too wide) in alignment at lines 481--487
+ [] [] [] [] [] 
+ []
+
+[54]
+Underfull \hbox (badness 2042) in paragraph at lines 492--492
+\OT1/minntx/m/n/10 ada-lah me-la-kuk-an per-ban-ding-an per-for-ma mo-del Piczak-CNN de-ngan
+ []
+
+
+Underfull \hbox (badness 1308) in paragraph at lines 492--492
+\OT1/minntx/m/n/10 ar-si-tek-tur la-in yang umum di-gu-nak-an da-lam do-ma-in kla-si-fi-ka-si su-a-ra
+ []
+
+
+Underfull \hbox (badness 1769) in paragraph at lines 494--494
+\OT1/minntx/m/n/10 ter-se-but ke-mu-di-an di-a-na-li-sis se-ca-ra kom-pa-ra-tif un-tuk meng-i-den-ti-fi-ka-si
+ []
+
+[55]
+Underfull \hbox (badness 1688) in paragraph at lines 496--496
+[]\OT1/minntx/m/n/10 Arsitektur PANNs CNN14 yang di-gu-nak-an da-lam pe-ne-li-ti-an ini
+ []
+
+[56] [57]
+chapters/chapter-4.tex:654: ignored: Infinite glue shrinkage found in box being split [58]
+Overfull \hbox (6.42969pt too wide) in alignment at lines 658--666
+ [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (6.42969pt too wide) in alignment at lines 666--673
+ [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (6.42969pt too wide) in alignment at lines 673--675
+ [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (6.42969pt too wide) in alignment at lines 675--677
+ [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (6.42969pt too wide) in alignment at lines 677--689
+ [] [] [] [] [] [] [] 
+ []
+
+[59]
+Underfull \hbox (badness 3240) in paragraph at lines 694--694
+[]\OT1/minntx/m/n/10 Studi abla-si di-lak-sa-nak-an un-tuk meng-e-va-lu-a-si kon-tri-bu-si se-ti-ap
+ []
+
+
+Underfull \hbox (badness 1253) in paragraph at lines 699--699
+\OT1/minntx/m/n/10 kon-tri-bu-si fak-tu-al da-ri masing-masing kom-po-nen ter-ha-dap pe-ning-kat-an
+ []
+
+[60]
+Underfull \hbox (badness 1394) in paragraph at lines 705--705
+[]\OT1/minntx/m/n/10 Tahap ana-li-sis ke-dua meng-i-ku-ti ske-na-rio 3 pa-da Bab III, ya-i-tu
+ []
+
+
+Underfull \hbox (badness 1360) in paragraph at lines 708--708
+[]\OT1/minntx/m/n/10 Tahap ana-li-sis ke-ti-ga meng-i-ku-ti ske-na-rio 4 pa-da Bab III, ya-i-tu
+ []
+
+[61]
+Underfull \hbox (badness 1297) in paragraph at lines 715--715
+[]\OT1/minntx/m/n/10 Dari as-pek efi-si-en-si kom-pu-ta-sio-nal, mo-del Piczak-CNN me-mi-li-ki
+ []
+
+[62] [63]
+Underfull \hbox (badness 1968) in paragraph at lines 733--733
+\OT1/minntx/m/n/10 pe-ne-ra-pan-nya jus-tru me-nu-runk-an per-for-ma mo-del di-ban-dingk-an tan-pa
+ []
+
+[64]) (chapters/chapter-5.tex [65]
+BAB V.
+
+Underfull \hbox (badness 3919) in paragraph at lines 7--8
+\OT1/minntx/m/n/10 ber-o-ri-en-ta-si ke-se-la-mat-an te-lah ber-ha-sil di-ca-pai me-la-lui \OT1/ntxtlf/m/it/10 tu-ning
+ []
+
+
+Underfull \hbox (badness 1348) in paragraph at lines 9--10
+\OT1/minntx/m/n/10 CNN14 yang di-\OT1/ntxtlf/m/it/10 fine-tune \OT1/minntx/m/n/10 pa-da da-ta-set yang sa-ma me-nun-jukk-an
+ []
+
+[66
+
+]
+Underfull \hbox (badness 2726) in paragraph at lines 15--16
+[]\OT1/minntx/m/n/10 Penggunaan tek-nik au-gmen-ta-si da-ta yang le-bih cang-gih da-pat
+ []
+
+
+Underfull \hbox (badness 1997) in paragraph at lines 17--18
+\OT1/minntx/m/n/10 meng-e-va-lu-a-si dam-pak-nya ter-ha-dap ke-se-la-mat-an ba-gi pe-nyan-dang
+ []
+
+) [67]
+Underfull \hbox (badness 1275) in paragraph at lines 168--168
+\OT1/minntx/m/n/10 of En-vi-ro-nmen-tal War-ning Sys-tems for Dri-vers wi-th He-a-ring
+ []
+
+
+Underfull \hbox (badness 2503) in paragraph at lines 168--168
+[]\OT1/minntx/m/n/10 Lujie Peng et al. ``BSN-ESC: A Big{Small Network-Based
+ []
+
+[68
+
+]
+Underfull \hbox (badness 5431) in paragraph at lines 168--168
+[]\OT1/minntx/m/n/10 Karol J. Pi-czak. ``En-vi-ro-nmen-tal so-und clas-si-fi-ca-tion wi-th
+ []
+
+
+Underfull \hbox (badness 1132) in paragraph at lines 168--168
+\OT1/minntx/m/n/10 con-vo-lu-tio-nal ne-u-ral ne-tworks''. \OT1/ntxtlf/m/it/10 2015 IE-EE 25th In-ter-na-tio-nal
+ []
+
+
+Underfull \hbox (badness 1142) in paragraph at lines 168--168
+[]\OT1/minntx/m/n/10 Zhichao Zhang et al. ``Le-ar-ning At-ten-ti-ve Rep-re-sen-ta-tions for
+ []
+
+
+Underfull \hbox (badness 2269) in paragraph at lines 168--168
+\OT1/minntx/m/n/10 En-vi-ro-nmen-tal So-und Clas-si-fi-ca-tion''. \OT1/ntxtlf/m/it/10 IE-EE Access \OT1/minntx/m/n/10 7 (2019),
+ []
+
+
+Underfull \hbox (badness 2781) in paragraph at lines 168--168
+[]\OT1/minntx/m/n/10 V. Sha-fi-ro et al. ``Per-cep-tion of En-vi-ro-nmen-tal So-un-ds by
+ []
+
+
+Underfull \hbox (badness 2591) in paragraph at lines 168--168
+\OT1/minntx/m/n/10 Su-a-ra Urb-an meng-gu-nak-an De-ep Le-ar-ning''. \OT1/ntxtlf/m/it/10 Sa-ins, Apli-ka-si,
+ []
+
+[69]
+Underfull \hbox (badness 1735) in paragraph at lines 168--168
+\OT1/minntx/m/n/10 de-scrip-ti-ve re-vi-ew of the li-te-ra-tu-re''. \OT1/ntxtlf/m/it/10 In-te-lli-gent Sys-tems wi-th
+ []
+
+
+Underfull \hbox (badness 6842) in paragraph at lines 168--168
+[]\OT1/minntx/m/n/10 Baljinder Ka-ur and Jas-ki-rat Singh. ``Au-dio Clas-si-fi-ca-tion:
+ []
+
+[70] [71] (chapters/appendix.tex
+Overfull \hbox (257.09743pt too wide) in paragraph at lines 4--5
+[][][]$\OT1/minntx/m/n/10 https : / / github . com / mctosima / Jurnal-[]Klasi^^Lkasi-[]Suara-[]Lingkungan-[]Menggunakan-[]Piczak-[]CNN-[]Berdasarkan-[]Representasi-[]Spektrogram$[][] 
+ []
+
+)
+
+Package caption Warning: Unused \captionsetup[equation] on input line 102.
+See the caption package documentation for explanation.
+
+[72
+
+] (thesis.aux)
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2020/03/25>
+ ***********
+
+
+LaTeX Warning: There were undefined references.
+
+Package rerunfilecheck Info: File `thesis.out' has not changed.
+(rerunfilecheck)             Checksum: ACFCA480B7CE082F7C808151DDBEFA1B;14290.
+
+Package biblatex Warning: Please (re)run BibTeX on the file(s):
+(biblatex)                thesis
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'thesis.run.xml'.
+\openout1 = `thesis.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 46338 strings out of 467866
+ 874621 string characters out of 5418809
+ 2084559 words of memory out of 5000000
+ 73791 multiletter control sequences out of 15000+600000
+ 673235 words of font info for 126 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 93i,16n,97p,1970b,2732s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI.pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI7.pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qtmr.pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txtt.pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmb.pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmbi.pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmr.pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmri.pfb>
+Output written on thesis.pdf (90 pages, 3775889 bytes).
+PDF statistics:
+ 1844 PDF objects out of 2073 (max. 8388607)
+ 716 named destinations out of 1000 (max. 500000)
+ 11657 words of extra memory for PDF output out of 12000 (max. 10000000)
+

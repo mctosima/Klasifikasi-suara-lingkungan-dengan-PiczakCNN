@@ -1,0 +1,101 @@
+ \renewcommand *\cftchappresnum {\MakeUppercase []{BAB}~} 
+\babel@toc {bahasa}{}\relax 
+\contentsline {chapter}{LEMBAR PENGESAHAN}{ii}{section*.2}%
+\contentsline {chapter}{HALAMAN PERNYATAAN ORISINALITAS}{iii}{section*.3}%
+\contentsline {chapter}{HALAMAN PERSETUJUAN PUBLIKASI}{iv}{section*.4}%
+\contentsline {chapter}{KATA PENGANTAR}{v}{section*.5}%
+\contentsline {chapter}{RINGKASAN}{vi}{section*.6}%
+\contentsline {chapter}{ABSTRAK}{ix}{section*.7}%
+\contentsline {chapter}{ABSTRACT}{x}{section*.8}%
+\contentsline {chapter}{DAFTAR ISI}{xi}{section*.9}%
+\contentsline {chapter}{DAFTAR TABEL}{xiv}{section*.11}%
+\contentsline {chapter}{DAFTAR GAMBAR}{xv}{section*.13}%
+\contentsline {chapter}{DAFTAR RUMUS}{xvi}{section*.15}%
+\contentsline {chapter}{DAFTAR KODE}{xvii}{section*.17}%
+\contentsline {chapter}{\numberline {I}PENDAHULUAN}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Latar Belakang}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Rumusan Masalah}{2}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Tujuan Penelitian}{3}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Batasan Masalah}{3}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Manfaat Penelitian}{4}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Sistematika Penulisan}{4}{section.1.6}%
+\contentsline {subsection}{\numberline {1.6.1}Bab I}{4}{subsection.1.6.1}%
+\contentsline {subsection}{\numberline {1.6.2}Bab II}{4}{subsection.1.6.2}%
+\contentsline {subsection}{\numberline {1.6.3}Bab III}{4}{subsection.1.6.3}%
+\contentsline {subsection}{\numberline {1.6.4}Bab IV}{5}{subsection.1.6.4}%
+\contentsline {subsection}{\numberline {1.6.5}Bab V}{5}{subsection.1.6.5}%
+\contentsline {chapter}{\numberline {II}TINJAUAN PUSTAKA}{6}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Tinjauan Pustaka}{6}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Dasar Teori}{12}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Representasi Spektrogram}{12}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}\textit {Mel Spectrogram}}{12}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Convolutional Neural Network (CNN)}{13}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}PiczakCNN}{14}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.2.5}PANNs CNN14}{15}{subsection.2.2.5}%
+\contentsline {subsubsection}{\numberline {2.2.5.1}Layer Architecture}{16}{subsubsection.2.2.5.1}%
+\contentsline {subsection}{\numberline {2.2.6}\textit {Max-Pooling}}{16}{subsection.2.2.6}%
+\contentsline {subsubsection}{\numberline {2.2.6.1}Rectified Linear Units}{16}{subsubsection.2.2.6.1}%
+\contentsline {subsubsection}{\numberline {2.2.6.2}Dropout Learning}{17}{subsubsection.2.2.6.2}%
+\contentsline {subsection}{\numberline {2.2.7}Confusion Matrix}{17}{subsection.2.2.7}%
+\contentsline {subsubsection}{\numberline {2.2.7.1}Accuracy}{18}{subsubsection.2.2.7.1}%
+\contentsline {subsubsection}{\numberline {2.2.7.2}Precision}{19}{subsubsection.2.2.7.2}%
+\contentsline {subsubsection}{\numberline {2.2.7.3}Recall}{19}{subsubsection.2.2.7.3}%
+\contentsline {subsubsection}{\numberline {2.2.7.4}F1-Score}{19}{subsubsection.2.2.7.4}%
+\contentsline {chapter}{\numberline {III}METODE PENELITIAN}{20}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Alur Penelitian}{20}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Penjabaran Langkah Penelitian}{21}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Identifikasi Masalah}{21}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Studi Literatur}{21}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Pengumpulan Data}{21}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Pengembangan Model}{22}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.2.5}Evaluasi Model}{22}{subsection.3.2.5}%
+\contentsline {subsection}{\numberline {3.2.6}Hasil dan Pembahasan}{23}{subsection.3.2.6}%
+\contentsline {section}{\numberline {3.3}Alat dan Bahan Tugas Akhir}{23}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Alat}{23}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Bahan}{23}{subsection.3.3.2}%
+\contentsline {section}{\numberline {3.4}Metode Pengembangan Model}{24}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}\textit {Input} \textit {Dataset}}{25}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}\textit {Data Labeling}}{25}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}\textit {Split} Data}{25}{subsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.4.4}\textit {Pre-processing} Data}{26}{subsection.3.4.4}%
+\contentsline {subsubsection}{\numberline {3.4.4.1}\textit {Augmentation}}{26}{subsubsection.3.4.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.4.2}\textit {Feature Extraction}}{30}{subsubsection.3.4.4.2}%
+\contentsline {subsubsection}{\numberline {3.4.4.3}\textit {Normalization} dan \textit {Padding}}{30}{subsubsection.3.4.4.3}%
+\contentsline {subsubsection}{\numberline {3.4.4.4}\textit {Segmentation}}{31}{subsubsection.3.4.4.4}%
+\contentsline {subsubsection}{\numberline {3.4.4.5}\textit {Delta Features}}{31}{subsubsection.3.4.4.5}%
+\contentsline {subsection}{\numberline {3.4.5}Pelatihan Model}{31}{subsection.3.4.5}%
+\contentsline {subsection}{\numberline {3.4.6}Lapisan Input}{32}{subsection.3.4.6}%
+\contentsline {subsubsection}{\numberline {3.4.6.1}Lapisan Konvolusi Pertama (Conv1)}{33}{subsubsection.3.4.6.1}%
+\contentsline {subsubsection}{\numberline {3.4.6.2}Lapisan Max Pooling Pertama (MaxPool1)}{33}{subsubsection.3.4.6.2}%
+\contentsline {subsubsection}{\numberline {3.4.6.3}Lapisan Max Pooling Kedua (MaxPool2)}{33}{subsubsection.3.4.6.3}%
+\contentsline {subsubsection}{\numberline {3.4.6.4}Lapisan Fully Connected dan Regularisasi}{33}{subsubsection.3.4.6.4}%
+\contentsline {subsubsection}{\numberline {3.4.6.5}Lapisan Output}{33}{subsubsection.3.4.6.5}%
+\contentsline {subsection}{\numberline {3.4.7}\textit {Hyperparameter} Tuning}{34}{subsection.3.4.7}%
+\contentsline {section}{\numberline {3.5}Ilustrasi Perhitungan}{36}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Rencana Pengujian}{38}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}Studi Ablasi}{38}{subsection.3.6.1}%
+\contentsline {subsubsection}{\numberline {3.6.1.1}Konsep Studi Ablasi}{38}{subsubsection.3.6.1.1}%
+\contentsline {subsubsection}{\numberline {3.6.1.2}Skenario Pengujian}{38}{subsubsection.3.6.1.2}%
+\contentsline {chapter}{\numberline {IV}HASIL DAN PEMBAHASAN}{40}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Hasil}{40}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Pengumpulan Data}{40}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Split Data}{40}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}\textit {Pre-Processing} dan Augmentasi Data}{41}{subsection.4.1.3}%
+\contentsline {subsubsection}{\numberline {4.1.3.1}\textit {Pre-Processing} Data}{41}{subsubsection.4.1.3.1}%
+\contentsline {subsubsection}{\numberline {4.1.3.2}Augmentasi Data}{46}{subsubsection.4.1.3.2}%
+\contentsline {subsection}{\numberline {4.1.4}Pelatihan Model}{47}{subsection.4.1.4}%
+\contentsline {subsubsection}{\numberline {4.1.4.1}Pengujian Model}{53}{subsubsection.4.1.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.4.2}Perbandingan Model}{55}{subsubsection.4.1.4.2}%
+\contentsline {subsection}{\numberline {4.1.5}Evaluasi Studi Ablasi}{60}{subsection.4.1.5}%
+\contentsline {subsubsection}{\numberline {4.1.5.1}Baseline Model}{60}{subsubsection.4.1.5.1}%
+\contentsline {subsubsection}{\numberline {4.1.5.2}Eksperimentasi Dropout}{61}{subsubsection.4.1.5.2}%
+\contentsline {subsubsection}{\numberline {4.1.5.3}Eksperimentasi Augmentasi Data}{61}{subsubsection.4.1.5.3}%
+\contentsline {subsubsection}{\numberline {4.1.5.4}Eksperimentasi Optimizer}{61}{subsubsection.4.1.5.4}%
+\contentsline {section}{\numberline {4.2}Evaluasi}{61}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Pembahasan}{63}{section.4.3}%
+\contentsline {chapter}{\numberline {V}KESIMPULAN DAN SARAN}{66}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Kesimpulan}{66}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Saran}{67}{section.5.2}%
+\contentsline {chapter}{DAFTAR PUSTAKA}{68}{section*.44}%
+\contentsline {chapter}{LAMPIRAN}{72}{chapter*.45}%
+\contentsline {section}{\numberline {A}GitHub Proyek Tugas Akhir}{72}{section.Alph0.1}%
